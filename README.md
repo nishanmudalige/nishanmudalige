@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on projects related to SARS‑CoV‑2 (i.e. the virus that causes Covid-19).
 - 🌱 I’m currently learning epidemiology.
+- 📫 How to reach me: nishan [dot] mudalige [at] gmail [dot] com
+
 
 <!--
 **nishanmudalige/nishanmudalige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
