@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on projects related to SARS‑CoV‑2 (i.e. the virus that causes Covid-19).
 - 🌱 I’m currently learning epidemiology.
-- 📫 How to reach me: nishan [dot] mudalige [at] gmail [dot] com.
+- 📫 Email: nishan [dot] mudalige [at] gmail [dot] com .
 
 <!--
 - 🧠 Practicing with [GitHub Copilot Ai](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot "GitHub Copilot")
