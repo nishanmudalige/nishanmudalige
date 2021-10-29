@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects related to SARS‑CoV‑2 (i.e. the virus that causes Covid-19).
+- 🔭 I’m currently working on projects related to Covid-19 (i.e. the SARS‑CoV‑2 virus).
 - 🌱 I’m currently learning epidemiology.
 - 📫 Email: nishan [dot] mudalige [at] gmail [dot] com
 - 🌐 Website: https://nishanmudalige.github.io
