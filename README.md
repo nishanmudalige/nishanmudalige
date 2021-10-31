@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Currently applying statistical concepts on projects related to: 
-   - Covid-19 (i.e. the SARS‑CoV‑2 virus)
+   - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
    - Haematology
 - 🌱 Currently learning epidemiology.
 - 📫 Email: nishan [dot] mudalige [at] gmail [dot] com
