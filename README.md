@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on several projects related to: 
+- 🔭 Currently applying statistical concepts on projects related to: 
    - Covid-19 (i.e. the SARS‑CoV‑2 virus)
-- 🌱 I’m currently learning epidemiology.
+   - Haematology
+- 🌱 Currently learning epidemiology.
 - 📫 Email: nishan [dot] mudalige [at] gmail [dot] com
 - 🌐 Website: https://nishanmudalige.github.io
 - 🤔 I’m looking for help with PHP.
