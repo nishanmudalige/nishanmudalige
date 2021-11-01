@@ -2,7 +2,7 @@
 
 - 🔭 Currently applying statistical concepts on projects related to: 
    - 🦠 SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
-   - Haematology
+   - 🩸 Haematology
 - 🌱 Currently learning epidemiology.
 - 📫 Email: nishan [dot] mudalige [at] gmail [dot] com
 - 🌐 Website: https://nishanmudalige.github.io
@@ -12,7 +12,7 @@
 <!--
 - 🧠 Practicing with [GitHub Copilot Ai](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot "GitHub Copilot")
 
-🩸
+
 -->
 
 <!--
