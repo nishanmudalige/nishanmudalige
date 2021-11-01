@@ -1,12 +1,16 @@
 ### Hi there 👋. I am ...
-
 - 🔭 Currently applying statistical concepts on projects related to: 
    - 🦠 SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
    - 🩸 Haematology
 - 🌱 Currently learning epidemiology.
+
+
+### Contact Details
 - 📫 Email: nishan [dot] mudalige [at] gmail [dot] com
 - 🌐 Website: https://nishanmudalige.github.io
-- 🤔 I’m looking for help with PHP.
+
+### Colaborations
+- 🤔 I’m currently looking for help with PHP.
 
 
 <!--
