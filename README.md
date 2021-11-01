@@ -1,7 +1,7 @@
 ### Hi there 👋. I am ...
 - 🔭 Currently applying statistical concepts on projects related to: 
    - 🦠 SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
-   - 🩸 Haematology
+   - 🩸 Hematology
 - 🌱 Currently learning epidemiology.
 
 
