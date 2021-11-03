@@ -12,7 +12,7 @@
 - Website: https://nishanmudalige.github.io
 
 ##
-### Colaborations
+### Colaborations / Assistance
 - I’m currently looking for help with PHP.
 
 <!--
