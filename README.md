@@ -1,10 +1,10 @@
-# Hi there
+# Hi There
 
-### I am
-- Currently applying statistical concepts on projects related to: 
+### Current Activities
+- Applying statistical concepts on projects related to: 
    - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
    - Hematology
-- Currently learning epidemiology.
+- Upgrading knowledge on epidemiology.
 
 ##
 ### Contact Details
