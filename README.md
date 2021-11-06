@@ -10,10 +10,12 @@
    - R
    - SAS
 
+<!--
 ##
 ### Contact Details
 - Email: nishan [dot] mudalige [at] gmail [dot] com
 - Website: https://nishanmudalige.github.io
+-->
 
 ##
 ### Colaborations / Assistance
