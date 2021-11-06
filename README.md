@@ -26,7 +26,7 @@
 - I will buy a beer for anyone who can help me solve the following challenge problem in either R of Python 3. All conditions must be met.
    - Read a password protected Excel file 
    - Any libraries or packages loaded can only depend on Java 1.8 or older
-   - Bonus beer if this problem can be solver without using Java.
+   - Bonus beer if this problem can be solved without using Java.
 
 <!--
 ### Hi there 👋
