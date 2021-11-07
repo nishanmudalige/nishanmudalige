@@ -24,8 +24,8 @@
 ##
 ### Challenge Problem
 - I will buy a beer for anyone who can help me solve the following challenge problem. Both conditions must be met.
-   - Read a password protected Excel file in either R of Python 3.
-   - Any libraries or packages loaded can only depend on Java 1.8 or older.
+   1. Read a password protected Excel file in either R of Python 3.
+   2. Any libraries or packages loaded can only depend on Java 1.8 or older.
 - Bonus beer if this problem can be solved without using Java.
 
 <!--
