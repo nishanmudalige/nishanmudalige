@@ -22,7 +22,7 @@
 - I’m currently looking for help with PHP.
 
 ##
-### Challenge Problem
+### Challenge Problem (with Reward)
 - I will buy a beer for anyone who can help me solve the following challenge problem. Both conditions must be met.
    1. Read a password protected Excel file in either R of Python 3.
    2. Any libraries or packages loaded can only depend on Java 1.8 or older.
