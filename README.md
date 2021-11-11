@@ -23,7 +23,7 @@
 
 ##
 ### Challenge Problem (with Reward)
-- I will buy a beer for anyone who can help me solve the following challenge problem. Both conditions must be met.
+- I will buy a beer for anyone who can help me solve the following challenge problem. All conditions must be met.
    1. Read a password protected Excel file (.xlsx) in either R or Python 3.
    2. Any libraries or packages loaded can only depend on Java 1.8 or older.
    3. No other manipulation of the file is allowed (for example, you're not allowed to unzip the excel file, manipulate the XML embedded into it etc.).
