@@ -27,7 +27,7 @@
    1. Read a password protected Excel file (.xlsx) in either R or Python 3.
    2. Any libraries or packages loaded can only depend on Java 1.8 or older.
    3. No other manipulation of the file is allowed (for example, you're not allowed to unzip the excel file, manipulate the XML embedded into it etc.).
-- Bonus beer if this problem can be solved without using Java.
+- Bonus beer if this problem can be solved without using a library dependant on Java.
 
 <!--
 ### Hi there 👋
