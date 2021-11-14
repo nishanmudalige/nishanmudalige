@@ -4,7 +4,6 @@
 - Applying statistical concepts on projects related to: 
    - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
    - Hematology
-<!-- - Upgrading knowledge on epidemiology. -->
 - I mostly code in R, Python and SAS.
 
 <!--
