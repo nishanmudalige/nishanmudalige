@@ -14,8 +14,12 @@
 -->
 
 ##
+### Active Projects
+- I am currently updating my personal website.
+
+##
 ### Colaborations / Assistance
-- I’m currently looking for help with PHP.
+- I am currently looking for help with PHP.
 
 <!--
 ##
