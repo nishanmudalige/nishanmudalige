@@ -1,6 +1,6 @@
 # Hi There
 
-[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)](https://github.com/anuraghazra/github-readme-stats)
+[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)]
 
 
 ### Current Activities
