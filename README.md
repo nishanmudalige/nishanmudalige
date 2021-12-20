@@ -1,5 +1,8 @@
 # Hi There
 
+[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Current Activities
 - Applying statistical concepts on projects related to: 
    - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
