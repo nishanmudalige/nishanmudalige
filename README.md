@@ -1,9 +1,5 @@
 # Hi There
 
-### Current Status
-
-Unavailable due to moving.
-
 ### My GitHub Summary
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
