@@ -7,6 +7,8 @@
 ### Current Activities
 - Applying statistical concepts on projects related to: 
    - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
+   - Hematology
+      - Joint work with Dr. Merkley
 - I mostly code in R, Python and SAS.
 
 <!--
