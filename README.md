@@ -9,7 +9,7 @@
    - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
       - Joint work with the pandemic response unit.  
    - Hematology
-      - Joint work with Dr. Merkley, Vignesh Murthy (physician in training).
+      - Joint work with Dr. Hayley Merkley, Vignesh Murthy (physician in training).
 - I mostly code in R, Python and SAS.
 
 <!--
