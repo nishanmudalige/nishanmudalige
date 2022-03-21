@@ -22,6 +22,7 @@
 ##
 ### Active Projects
 - I am currently updating my personal website.
+- I am currently working on an R package.
 
 ##
 ### Colaborations / Assistance
