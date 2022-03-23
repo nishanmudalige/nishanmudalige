@@ -12,13 +12,6 @@
       - Joint work with Dr. Hayley Merkley, Vignesh Murthy (physician in training).
 - I mostly code in R, Python and SAS.
 
-<!--
-##
-### Contact Details
-- Email: nishan [dot] mudalige [at] gmail [dot] com
-- Website: https://nishanmudalige.github.io
--->
-
 ##
 ### Active Projects
 - I am currently updating my personal website.
@@ -27,6 +20,14 @@
 ##
 ### Colaborations / Assistance
 - I am currently looking for help with PHP.
+
+<!--
+##
+### Contact Details
+- Email: nishan [dot] mudalige [at] gmail [dot] com
+- Website: https://nishanmudalige.github.io
+-->
+
 
 <!--
 ##
