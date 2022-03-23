@@ -21,12 +21,10 @@
 ### Colaborations / Assistance
 - I am currently looking for help with PHP.
 
-<!--
 ##
 ### Contact Details
-- Email: nishan [dot] mudalige [at] gmail [dot] com
+<!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
 - Website: https://nishanmudalige.github.io
--->
 
 
 <!--
