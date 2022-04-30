@@ -26,7 +26,7 @@
 
 ##
 <!-- ### Contact Details -->
-### Webstie
+### Website
 <!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
 - Website: https://nishanmudalige.github.io
 
