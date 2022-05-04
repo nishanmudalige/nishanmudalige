@@ -7,7 +7,7 @@
 ### Current Activities
 - Applying statistical concepts on projects related to: 
    - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
-      - Joint work with the pandemic response unit.  
+      - Joint work with the pandemic response unit of the province of BC.
    - Hematology
       - Joint work with Dr. Hayley Merkley, Vignesh Murthy (physician in training).
    - Trees
