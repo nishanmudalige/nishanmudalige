@@ -16,7 +16,7 @@
 
 ##
 ### Active Projects
-- I am currently updating my personal website (quitslowly).
+- I am currently updating my personal website (quit slowly).
 - I am currently working on an R package (very slowly).
 <!--
 - More details on my personal website (please see below).
