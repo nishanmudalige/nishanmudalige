@@ -12,7 +12,7 @@
       - Joint work with Dr. Hayley Merkley, Vignesh Murthy (physician in training).
    - Trees
       - Joint work with Dr. Loius-Paul Rivest, Dr. Pierre Dutilleul.
-- I mostly code in R, Python and SAS.
+- I mostly code in R, SAS and Python.
 
 ##
 ### Active Projects
