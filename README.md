@@ -14,6 +14,7 @@
       - Joint work with Dr. Loius-Paul Rivest, Dr. Pierre Dutilleul.
 - I mostly code in R, SAS and Python.
 
+
 ##
 ### Active Projects
 - I am currently updating my personal website (quite slowly).
