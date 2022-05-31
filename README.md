@@ -10,7 +10,7 @@
       - Joint work with the pandemic response unit (Province of BC).
    - Hematology
       - Joint work with Dr. Hayley Merkley, Dr. Vignesh Murthy (physician in training).
-   - Trees
+   - Trees (Pine trees in nature, not trees from graph theory)
       - Joint work with Dr. Loius-Paul Rivest, Dr. Pierre Dutilleul.
 - I mostly code in R, SAS and Python.
 
