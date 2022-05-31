@@ -9,7 +9,7 @@
    - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
       - Joint work with the pandemic response unit (Province of BC).
    - Hematology
-      - Joint work with Dr. Hayley Merkley, Vignesh Murthy (physician in training).
+      - Joint work with Dr. Hayley Merkley, Dr. Vignesh Murthy (physician in training).
    - Trees
       - Joint work with Dr. Loius-Paul Rivest, Dr. Pierre Dutilleul.
 - I mostly code in R, SAS and Python.
