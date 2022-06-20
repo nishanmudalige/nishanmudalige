@@ -37,7 +37,6 @@
 
 
 <!--
-
 ### Challenge Problem (with Reward)
 - I will buy a beer for anyone who can help me solve the following challenge problem. All conditions must be met.
    1. Read a password protected Excel file (.xlsx) in either R or Python 3.
@@ -45,6 +44,7 @@
    3. No other manipulation of the file is allowed (for example, you're not allowed to unzip the excel file, manipulate the XML embedded into it etc.).
 - Bonus beer if this problem can be solved without using a library dependant on Java.
 -->
+
 <!--
 ### Hi there 👋
 
