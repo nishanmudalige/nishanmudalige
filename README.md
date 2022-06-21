@@ -24,7 +24,6 @@
 - More details on my personal website (please see below).
 -->
 
-
 ##
 ### Colaborations / Assistance
 - I am currently looking for help with PHP.
