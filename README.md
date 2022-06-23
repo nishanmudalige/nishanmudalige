@@ -44,6 +44,9 @@
 -->
 
 <!--
+
+### Struggling to install neovim
+
 ### Hi there 👋
 
 ### I am
