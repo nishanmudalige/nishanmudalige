@@ -45,7 +45,7 @@
 
 <!--
 
-### Struggling to install neo vim
+### Installing neo vim
 ### Considering using co-pilot AI
 
 ### Hi there 👋
