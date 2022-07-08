@@ -26,10 +26,6 @@
 -->
 
 ##
-### Colaborations / Assistance
-- I am currently looking for help with PHP.
-
-##
 <!-- ### Contact Details -->
 ### Website
 <!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
