@@ -20,6 +20,7 @@
 ### Active Projects
 - I am currently working on an R package:
    - [TreeBranchModeller](https://github.com/nishanmudalige/TreeBranchModeller)
+   - Joint work with Dr. Loius-Paul Rivest, Dr. Pierre Dutilleul.
 - I am currently updating my personal website (quite slowly).
 <!--
 - More details on my personal website (please see below).
