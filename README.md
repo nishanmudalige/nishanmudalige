@@ -11,7 +11,7 @@
    - Cardiology
       - Joint work with Dr. Carlo Barcella (Denmark).
    - Trees (Pine trees in nature, not trees from graph theory)
-      - Joint work with Dr. Loius-Paul Rivest, Dr. Pierre Dutilleul.
+      - Joint work with Dr. Loius-Paul Rivest (Laval), Dr. Pierre Dutilleul.
     - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
       - Joint work with the pandemic response unit (Province of BC.
       - Support role.
