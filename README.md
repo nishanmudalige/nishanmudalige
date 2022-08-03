@@ -19,11 +19,10 @@
 
 
 ##
-### Active Projects
-- I am currently working on an R package:
+### Recently completed Projects
+- I recently completed an R package:
    - [TreeBranchModeller](https://github.com/nishanmudalige/TreeBranchModeller)
    - Joint work with Dr. Loius-Paul Rivest (Laval), Dr. Pierre Dutilleul (McGill).
-- I am currently updating my personal website (quite slowly).
 <!--
 - More details on my personal website (please see below).
 -->
