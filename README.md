@@ -19,7 +19,7 @@
 
 
 ##
-### Recently completed Projects
+### Recently Projects
 - I recently completed an R package:
    - [TreeBranchModeller](https://github.com/nishanmudalige/TreeBranchModeller)
    - Joint work with Dr. Loius-Paul Rivest (Laval), Dr. Pierre Dutilleul (McGill).
