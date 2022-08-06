@@ -6,7 +6,7 @@
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
-   - Hematology
+   - Hematology and immunology
       - Joint work with Dr. Hayley Merkley, Dr. Vignesh Murthy (physician in training).
    - Cardiology
       - Joint work with Dr. Carlo Barcella (Denmark).
