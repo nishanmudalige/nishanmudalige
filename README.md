@@ -7,7 +7,7 @@
 ### Current Activities
 - Applying statistical concepts on projects related to:
    - Hematology and immunology
-      - Joint work with Dr. Hayley Merkley, Dr. Vignesh Murthy (physician in training).
+      - Joint work with Dr. Hayley Merkley, Dr. Vignesh Murthy (BC Cancer).
    - Cardiology
       - Joint work with Dr. Carlo Barcella (Denmark).
    - Trees (Pine trees in nature, not trees from graph theory)
