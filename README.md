@@ -6,6 +6,8 @@
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
+   - Health technology assessment
+      - Joint work with other memberse of the Health Systems Intelligence Unit
    - Hematology and immunology
       - Joint work with Dr. Hayley Merkley (West Coast Hematology), Dr. Vignesh Murthy (BC Cancer).
    - Cardiology
