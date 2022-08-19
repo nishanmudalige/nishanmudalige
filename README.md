@@ -7,7 +7,7 @@
 ### Current Activities
 - Applying statistical concepts on projects related to:
    - Health technology assessment
-      - Joint work with other memberse of the Health Systems Intelligence Unit
+      - Joint work with other memberse of the Health Systems Intelligence Unit.
    - Hematology and immunology
       - Joint work with Dr. Hayley Merkley (West Coast Hematology), Dr. Vignesh Murthy (BC Cancer).
    - Cardiology
@@ -23,7 +23,7 @@
 ### Recent Projects
 - I recently completed an R package:
    - [TreeBranchModeller](https://github.com/nishanmudalige/TreeBranchModeller)
-   - Joint work with Dr. Loius-Paul Rivest (Laval), Dr. Pierre Dutilleul (McGill).
+   - Joint work with [Dr. Loius-Paul Rivest](https://www.mat.ulaval.ca/lrivest/louis-paul-rivest/) (Laval), [Dr. Pierre Dutilleul](https://www.mcgill.ca/plant/faculty/dutilleul) (McGill).
 <!--
 - More details on my personal website (please see below).
 -->
