@@ -9,7 +9,7 @@
    - Health technology assessment
       - Joint work with other members of the Health Systems Intelligence Unit.
    - Hematology and immunologyf
-      - Joint work with Dr. Hayley Merkley (West Coast Hematology), Dr. Vignesh Murthy (BC Cancer).
+      - Joint work with Dr. Hayley Merkeley (West Coast Hematology), Dr. Vignesh Murthy (BC Cancer).
    - Cardiology
       - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark).
 
