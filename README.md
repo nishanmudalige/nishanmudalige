@@ -4,6 +4,10 @@
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
+### Note
+
+I am currently busier than usual.
+
 ### Current Activities
 - Applying statistical concepts on projects related to:
    - Health technology assessment
@@ -12,7 +16,6 @@
       - Joint work with [Dr. Hayley Merkeley](https://covid19.research.ubc.ca/people/hayley-merkeley) (West Coast Hematology), [Dr. Vignesh Murthy](https://doctors.cpso.on.ca/DoctorDetails/Murthy-Vignesh/0310224-109098) (BC Cancer).
    - Cardiology
       - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark).
-
     - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
       - Joint work with the pandemic response unit (Province of BC).
 - I mostly code in SAS, R and Python.
