@@ -6,7 +6,8 @@
 
 ### Note
 
-I am currently busier than usual.
+- I am currently busier than usual.
+- I Expect to be relatively free after October 16.
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
