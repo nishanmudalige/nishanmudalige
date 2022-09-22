@@ -26,7 +26,7 @@
 ### Recent Projects
 - Publication on trees (i.e. trees in nature)
    - Joint work with [Dr. Loius-Paul Rivest](https://www.mat.ulaval.ca/lrivest/louis-paul-rivest/) (Laval), [Dr. Pierre Dutilleul](https://www.mcgill.ca/plant/faculty/dutilleul) (McGill).
-   - Journal article available [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274168).
+   - The journal article that resulted from this work is available [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274168).
     <!-- Further details after embargo is lefted by the publisher. -->
 - I recently completed an R package:
    - [TreeBranchModeller](https://github.com/nishanmudalige/TreeBranchModeller)
