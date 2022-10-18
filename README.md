@@ -4,11 +4,6 @@
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
-### Note
-
-- I am currently busier than usual.
-- I expect to be relatively free after October 18 (+/- 2 days).
-
 ### Current Activities
 - Applying statistical concepts on projects related to:
    - Health technology assessment.
