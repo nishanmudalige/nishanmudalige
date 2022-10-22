@@ -4,6 +4,9 @@
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
+### Notes
+- Currently busier than usual.
+
 ### Current Activities
 - Applying statistical concepts on projects related to:
    - Health technology assessment.
