@@ -25,6 +25,8 @@
 
 ##
 ### Recent Projects
+- Presented a chapter at Health Professional Book Club
+   - Markdown available [here](https://github.com/nishanmudalige/BookClubCVExample)
 - Publication on trees (i.e. trees in nature)
    - Joint work with [Dr. Loius-Paul Rivest](https://www.mat.ulaval.ca/lrivest/louis-paul-rivest/) (Laval), [Dr. Pierre Dutilleul](https://www.mcgill.ca/plant/faculty/dutilleul) (McGill).
    - The journal article that resulted from this work is available [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274168).
