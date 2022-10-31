@@ -41,7 +41,7 @@
 
 ##
 ### Location
-- Current location: Vancouver, BC, Canada
+- Vancouver, BC, Canada
 
 ##
 <!-- ### Contact Details -->
