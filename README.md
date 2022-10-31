@@ -39,6 +39,7 @@
 - More details on my personal website (please see below).
 -->
 
+##
 ### Location
 - Current location: Vancouver, BC, Canada
 
