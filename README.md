@@ -20,7 +20,7 @@
       - Joint work with the pandemic response unit (Province of BC)
 - Other porjects
    - Environmental outreach
-      - Joint work with provincial health services.
+      - Joint work with provincial health services
 - I mostly code in SAS, R and Python.
 
 
