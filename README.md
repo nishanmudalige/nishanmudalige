@@ -9,7 +9,7 @@
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
-   - Health technology assessment
+   - Health technology assessment (HTA)
       - Joint work with other members of the Health Systems Intelligence 
       - Further details are classified
    - Hematology and immunology
