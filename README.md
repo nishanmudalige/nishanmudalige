@@ -6,6 +6,7 @@
 
 ### Notes
 - Currently recovering from illness
+- Most projects are currently paused
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
