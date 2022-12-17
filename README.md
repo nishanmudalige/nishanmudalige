@@ -5,7 +5,7 @@
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
 ### Notes
-- Currently slightly busier than usual
+- Currently busier than usual
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
