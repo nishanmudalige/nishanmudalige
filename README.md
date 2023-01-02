@@ -11,7 +11,7 @@
 - Applying statistical concepts on projects related to:
    - Health technology assessment (HTA)
       - Joint work with other members of the Health Systems Intelligence 
-      - Further details are classified
+      - Further details classified
    - Hematology and immunology
       - Joint work with [Dr. Hayley Merkeley](https://covid19.research.ubc.ca/people/hayley-merkeley) (West Coast Hematology), [Dr. Vignesh Murthy](https://doctors.cpso.on.ca/DoctorDetails/Murthy-Vignesh/0310224-109098) (BC Cancer)
    - Cardiology
