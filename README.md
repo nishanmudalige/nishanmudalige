@@ -5,8 +5,7 @@
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
 ### Notes
-- Currently recovering from illness
-- Most projects are currently paused
+- Some projects are currently paused
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
