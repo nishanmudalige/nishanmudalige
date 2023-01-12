@@ -1,5 +1,7 @@
 # Hi There
 
+---
+
 ### My GitHub Summary
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
