@@ -40,7 +40,8 @@
 
 ##
 ### Location
-- Vancouver, BC, Canada
+- Work: Vancouver, BC, Canada
+- Living: Vancouver, BC, Canada
 
 ##
 <!-- ### Contact Details -->
