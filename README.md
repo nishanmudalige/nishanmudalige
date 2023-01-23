@@ -17,9 +17,11 @@
       - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
     - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
       - Joint work with the pandemic response unit (Province of BC)
+<!--
 - Other porjects
    - Environmental outreach
       - Joint work with provincial health services (Social committee)
+-->
 - I mostly code in SAS, R and Python.
 
 
