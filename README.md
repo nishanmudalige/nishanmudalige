@@ -7,7 +7,7 @@
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
 ### Note
-- Feb 6 - 9: SAS Viya training
+- Feb 6 - 9: Mostly unavailable due to training
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
