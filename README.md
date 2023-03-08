@@ -2,17 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanmudalige&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
 
-I am a statistican working in healthcare for the BC Provincial government. My formal training is in mathemaics and statistics.
+I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/). My formal training is in mathemaics and statistics.
 
 ---
 
 ### My GitHub Summary
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
-
-### Brief Overview
-
-I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/).
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
