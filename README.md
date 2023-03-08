@@ -10,6 +10,9 @@ I am a statistican working in healthcare for the BC Provincial government. My fo
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
+### Brief Overview
+
+I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/).
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
