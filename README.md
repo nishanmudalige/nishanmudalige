@@ -15,8 +15,6 @@ I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/). My formal tra
    - Hematology and immunology
       - Joint work with [Dr. Hayley Merkeley](https://covid19.research.ubc.ca/people/hayley-merkeley) (West Coast Hematology), [Dr. Vignesh Murthy](https://doctors.cpso.on.ca/DoctorDetails/Murthy-Vignesh/0310224-109098) (BC Cancer)
       - Further details classified
-   - Cardiology
-      - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
     - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
       - Joint work with the pandemic response unit (Province of BC)
 <!--
@@ -28,6 +26,12 @@ I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/). My formal tra
 
 
 ##
+
+### Recent Projects (2023)
+   - Cardiology
+      - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
+      - Started in 2022, completed in 2023
+
 ### Recent Projects (2022)
 - Presented a chapter at Health Professional Book Club
    - Markdown available [here](https://github.com/nishanmudalige/BookClubCVExample)
