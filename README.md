@@ -30,6 +30,7 @@ I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/). My formal tra
 ### Recent Projects (2023)
    - Cardiology
       - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
+      - Publication accepted :)
       - Started in 2022, completed in 2023
 
 ### Recent Projects (2022)
