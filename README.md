@@ -12,11 +12,11 @@ I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/). My formal tra
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
+   - Neurological addictions
+      - Joint work with the Health Economic Research Unit (HERU)
    - Hematology and immunology
       - Joint work with [Dr. Hayley Merkeley](https://covid19.research.ubc.ca/people/hayley-merkeley) (West Coast Hematology), [Dr. Vignesh Murthy](https://doctors.cpso.on.ca/DoctorDetails/Murthy-Vignesh/0310224-109098) (BC Cancer)
       - Further details classified
-    - SARS‑CoV‑2 virus (i.e. the virus that causes Covid-19)
-      - Joint work with the pandemic response unit (Province of BC)
 <!--
 - Other porjects
    - Environmental outreach
