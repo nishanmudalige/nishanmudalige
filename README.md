@@ -4,6 +4,7 @@
 
 I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/). My formal training is in mathemaics and statistics.
 
+
 ---
 
 ### My GitHub Summary
