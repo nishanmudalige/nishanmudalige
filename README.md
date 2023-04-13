@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanmudalige&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
 
-I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/). 
+I am a senior statistician at [CHÉOS](https://www.cheos.ubc.ca/). I am a member of the [Health Economics Research Unit (HERU)](https://github.com/HERU-modeling).
+
+https://github.com/HERU-modeling
 
 My formal training is in mathemaics and statistics.
 
