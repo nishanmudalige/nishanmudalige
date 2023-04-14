@@ -4,8 +4,6 @@
 
 I am a senior statistician in the [Health Economics Research Unit (HERU)](https://github.com/HERU-modeling) at the [Centre for Health Evaluation and Outcome Sciences (CHÉOS)](https://www.cheos.ubc.ca/).
 
-https://github.com/HERU-modeling
-
 My formal training is in mathemaics and statistics.
 
 ---
