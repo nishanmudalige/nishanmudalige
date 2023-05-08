@@ -51,7 +51,7 @@ My formal training is in mathemaics and statistics.
 
 ##
 ### Location
-- Work: Vancouver, BC, Canada
+- Working: Vancouver, BC, Canada
 - Living: Vancouver, BC, Canada
 
 ##
