@@ -14,7 +14,7 @@ My formal training is in mathemaics and statistics.
 
 ### Current Activities
 - Applying statistical concepts on projects related to:
-   - Neurological addictions
+   - Neurological addictions (Classified)
       - Joint work with the Health Economic Research Unit (HERU)
    - Hematology and immunology
       - Joint work with [Dr. Hayley Merkeley](https://covid19.research.ubc.ca/people/hayley-merkeley) (West Coast Hematology), [Dr. Vignesh Murthy](https://doctors.cpso.on.ca/DoctorDetails/Murthy-Vignesh/0310224-109098) (BC Cancer)
