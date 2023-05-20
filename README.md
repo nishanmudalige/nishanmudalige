@@ -6,7 +6,7 @@ I am a senior statistician in the [Health Economics Research Unit (HERU)](https:
 
 My formal training is in mathemaics and statistics.
 
-To find out more, please check out my personal [website](# Website).
+To find out more, please check out my personal [website](#Website).
 
 ---
 
