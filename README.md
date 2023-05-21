@@ -15,6 +15,7 @@ To find out more, please check out my personal [website](#Website).
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
 ### Current Activities
+- Preparing to attend HEMM.
 - Applying statistical concepts on projects related to:
    - Neurological addictions 
       - Surveillance and treatment (Further details are classified)
