@@ -32,13 +32,13 @@ To find out more, please check out my personal [website](#Website).
 
 ##
 
-### Recent Projects (2023)
+### Recently Completed Projects (2023)
    - Cardiology
       - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
       - Publication accepted in the Europeal Heart Journal :)
       - Started in 2022, completed in 2023
 
-### Recent Projects (2022)
+### Recent Completed Projects (2022)
 - Presented a chapter at Health Professional Book Club
    - Markdown available [here](https://github.com/nishanmudalige/BookClubCVExample)
 - Publication on trees (i.e. trees in nature)
