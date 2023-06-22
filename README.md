@@ -19,9 +19,11 @@ To find out more, please check out my personal [website](#Website).
    - Neurological addictions 
       - Surveillance (Further details are classified)
       - Joint work with the Health Economic Research Unit (HERU)
+<!--
    - Hematology and immunology
       - Joint work with [Dr. Hayley Merkeley](https://covid19.research.ubc.ca/people/hayley-merkeley) (West Coast Hematology), [Dr. Vignesh Murthy](https://doctors.cpso.on.ca/DoctorDetails/Murthy-Vignesh/0310224-109098) (BC Cancer)
       - Further details classified
+-->
 <!--
 - Other porjects
    - Environmental outreach
