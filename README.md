@@ -37,7 +37,7 @@ To find out more, please check out my personal [website](#Website).
 ### Recently Completed Projects (2023)
    - Cardiology
       - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
-      - Publication accepted in the Europeal Heart Journal :)
+      - Publication accepted in the European Heart Journal :)
       - Started in 2022, completed in 2023
 
 ### Recent Completed Projects (2022)
