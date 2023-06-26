@@ -4,7 +4,7 @@
 
 I am a senior statistician in the [Health Economics Research Unit (HERU)](https://cheos.ubc.ca/team-member/nishan-mudalige/) at the [Centre for Health Evaluation and Outcome Sciences (CHÉOS)](https://www.cheos.ubc.ca/).
 
-My formal training is in mathemaics and statistics.
+My formal training is in mathemaics and applied statistics.
 
 To find out more, please check out my personal [website](#Website).
 
