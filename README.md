@@ -17,7 +17,7 @@ To find out more, please check out my personal [website](#Website).
 ### Current Activities
 - Applying statistical concepts on projects related to:
    - Neurological addictions 
-      - Surveillance (Further details are classified)
+      - Surveillance (Further details classified)
       - Joint work with the Health Economic Research Unit (HERU)
 <!--
    - Hematology and immunology
