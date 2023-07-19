@@ -30,6 +30,8 @@ To find out more, please check out my personal [website](#Website).
    - Environmental outreach
       - Joint work with provincial health services (Social committee)
 -->
+
+### Coding
 - I mostly code in SAS, R and Python (including Jupyter).
 
 
