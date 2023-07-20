@@ -32,7 +32,10 @@ To find out more, please check out my personal [website](#Website).
 -->
 
 ### Coding
-- I mostly code in SAS, R and Python (including Jupyter).
+- I mostly code in
+   - SAS
+   - R
+   - Python
 
 
 ##
