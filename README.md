@@ -33,9 +33,9 @@ To find out more, please check out my personal [website](#Website).
 
 ### Coding
 - I mostly code in
-   - SAS
-   - R
-   - Python
+   - [SAS](https://www.sas.com/)
+   - [R](https://www.r-project.org/)
+   - [Python](https://www.python.org/)
 
 
 ##
