@@ -37,6 +37,7 @@ To find out more, please check out my personal [website](#Website).
    - [R](https://www.r-project.org/)
    - [Python](https://www.python.org/)
 - Prefered editor's/IDE's
+   - [Spyder]https://www.spyder-ide.org/
    - Posit [RStudio](https://posit.co/products/open-source/rstudio/)
 
 ##
