@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanmudalige&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
 
-I am a senior statistician in the [Health Economics Research Unit (HERU)](https://cheos.ubc.ca/team-member/nishan-mudalige/) at the [Centre for Health Evaluation and Outcome Sciences (CHÉOS)](https://www.cheos.ubc.ca/) - working out of [St. Paul's Hospital]([https://www.cheos.ubc.ca/](https://www.providencehealthcare.org/hospitals-residences/st-paul%27s-hospital)) in Vancouver, BC, Canada.
-
 My formal training is in mathemaics and applied statistics.
 
 To find out more, please check out my personal [website](#Website).
