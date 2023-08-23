@@ -63,10 +63,12 @@ To find out more, please check out my personal [website](#Website).
 - More details on my personal website (please see below).
 -->
 
+<!--
 ##
 ### Location
 - Working: Vancouver, BC, Canada
 - Living: Vancouver, BC, Canada
+-->
 
 ##
 <!-- ### Contact Details -->
