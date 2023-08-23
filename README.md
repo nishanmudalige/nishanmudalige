@@ -12,12 +12,14 @@ To find out more, please check out my personal [website](#Website).
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
+<!--
 ### Current Activities
 - Applying statistical concepts on projects related to:
    - Neurological addictions 
       - Surveillance (Further details classified)
       - Joint work with the Health Economic Research Unit (HERU)
 - Preparing for CSAM 2023 (October)
+-->
 <!--
    - Hematology and immunology
       - Joint work with [Dr. Hayley Merkeley](https://covid19.research.ubc.ca/people/hayley-merkeley) (West Coast Hematology), [Dr. Vignesh Murthy](https://doctors.cpso.on.ca/DoctorDetails/Murthy-Vignesh/0310224-109098) (BC Cancer)
