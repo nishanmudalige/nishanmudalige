@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanmudalige&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
 
-My formal training is in mathemaics and applied statistics.
+My formal education and training is in mathemaics and applied statistics.
 
 To find out more, please check out my personal [website](#Website).
 
