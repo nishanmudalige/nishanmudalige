@@ -30,7 +30,6 @@ To find out more, please check out my personal [website](#Website).
    - Environmental outreach
       - Joint work with provincial health services (Social committee)
 -->
-
 ### Coding
 <!--
 - I mostly code in
@@ -41,6 +40,12 @@ To find out more, please check out my personal [website](#Website).
 - Prefered editor's/IDE's
    - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
    - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
+
+##
+
+### Current Projects
+
+- Snowflake training.
 
 ##
 
