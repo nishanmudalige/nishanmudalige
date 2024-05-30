@@ -46,7 +46,6 @@ To find out more, please check out my personal [website](#Website).
 ### Current Projects
 
 - Snowflake training
-- Playing around with PyOMO
 
 ##
 
