@@ -4,6 +4,8 @@
 
 My formal education and training is in mathemaics and applied statistics.
 
+I am currently a research biostatistcian at Alberta Health Services.
+
 To find out more, please check out my personal [website](#Website).
 
 ---
