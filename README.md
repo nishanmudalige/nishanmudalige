@@ -32,9 +32,10 @@ To find out more, please check out my personal [website](#Website).
 
 - Developing a staging algorithm
 - Snowflake training
--->
 
 ##
+-->
+
 
 ### Recently Completed Projects (2023)
    - Cardiology
