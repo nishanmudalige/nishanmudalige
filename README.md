@@ -27,10 +27,12 @@ To find out more, please check out my personal [website](#Website).
 
 ##
 
+<!--
 ### Current Projects
 
-- Developinh a staging algorithm
+- Developing a staging algorithm
 - Snowflake training
+-->
 
 ##
 
