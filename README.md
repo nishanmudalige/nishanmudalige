@@ -6,7 +6,7 @@ I am an [Assistant Professor (Teaching Strem) in Statistics](https://www.utm.uto
 at the 
 [University of Toronto at Mississauga](https://www.utm.utoronto.ca).
 
-My formal education and training is in mathemaics and applied statistics.
+<!-- My formal education and training is in mathemaics and applied statistics. -->
 
 To find out more, please check out my personal [website](#Website).
 
