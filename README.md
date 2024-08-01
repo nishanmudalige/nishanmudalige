@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanmudalige&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
 
+I am an [Assistant Professor (Teaching Strem) in Statistics]([https://www.r-project.org/](https://www.utm.utoronto.ca/math-cs-stats/people/nishan-mudalige)) 
+at the 
+[University of Toronto at Mississauga]([https://www.r-project.org/](https://www.utm.utoronto.ca)).
+
 My formal education and training is in mathemaics and applied statistics.
 
 To find out more, please check out my personal [website](#Website).
