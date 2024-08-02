@@ -31,6 +31,12 @@ To find out more, please check out my personal [website](#Website).
 
 ##
 
+### Website
+<!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
+- Website: https://nishanmudalige.github.io
+
+##
+
 <!--
 ### Current Projects
 
@@ -71,9 +77,6 @@ To find out more, please check out my personal [website](#Website).
 
 ##
 <!-- ### Contact Details -->
-### Website
-<!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
-- Website: https://nishanmudalige.github.io
 
 <!--
 ### Challenge Problem (with Reward)
