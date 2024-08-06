@@ -46,7 +46,7 @@ To find out more, please check out my personal [website](#Website).
 ##
 -->
 
-
+<--
 ### Recently Completed Projects (2023)
    - Cardiology
       - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
@@ -63,6 +63,7 @@ To find out more, please check out my personal [website](#Website).
 - Completed an R package
    - [TreeBranchModeller](https://github.com/nishanmudalige/TreeBranchModeller)
    - Joint work with [Dr. Loius-Paul Rivest](https://www.mat.ulaval.ca/lrivest/louis-paul-rivest/) (Laval), [Dr. Pierre Dutilleul](https://www.mcgill.ca/plant/faculty/dutilleul) (McGill).
+-->
 
 <!--
 - More details on my personal website (please see below).
