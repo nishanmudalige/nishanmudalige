@@ -12,6 +12,8 @@ at the
 
 To find out more, please check out my personal [website](#Website).
 
+Please note some sections of my [website](#Website) are currently construction.
+
 ---
 
 ### My GitHub Summary
