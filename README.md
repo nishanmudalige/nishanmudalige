@@ -10,7 +10,7 @@ at the
 
 <!-- My formal education and training is in mathemaics and applied statistics. -->
 
-To find out more, please check out my personal [website](#Website) (Please note that the website is being updated so some sections are currently construction).
+To find out more, please check out my personal [website](#Website) (Please note this website is being updated so some sections are currently construction).
 
 ---
 
