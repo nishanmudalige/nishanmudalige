@@ -27,7 +27,7 @@ To find out more, please check out my personal [website](#Website) (Please note 
    - [R](https://www.r-project.org/)
    - [Python](https://www.python.org/)
 
-- Prefered editor's/IDE's
+- My prefered editor's/IDE's
    - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
    - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
 
