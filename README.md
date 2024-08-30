@@ -30,7 +30,7 @@ To find out more, please check out my personal [website](#Website) (Please note 
 - My prefered editor's/IDE's
    - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
    - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
-<!--   - [TeXShop]([https://posit.co/products/open-source/rstudio/](https://pages.uoregon.edu/koch/texshop/)) for LaTeX -->
+   - [TeXShop]([https://posit.co/products/open-source/rstudio/](https://pages.uoregon.edu/koch/texshop/)) for LaTeX
 
 ##
 
