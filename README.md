@@ -20,6 +20,12 @@ To find out more, please check out my personal [website](#Website) (Please note 
 
 ##
 
+### Currently
+
+- Getting ready to teach classes in the Fall.
+
+##
+
 ### Coding
 
 - I mostly code in
