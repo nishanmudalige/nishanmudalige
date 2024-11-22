@@ -22,7 +22,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ### Currently
 
-- Getting ready to teach classes in the Fall.
+- Teaching classes in the Fall.
 
 ##
 
