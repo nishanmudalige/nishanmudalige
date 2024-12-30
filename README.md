@@ -18,6 +18,8 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact)
+
 ##
 
 ### Currently
