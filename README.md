@@ -1,6 +1,6 @@
-[![Alt Text](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)]([[https://www.digitalocean.com/products/app-platform](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)]([https://nishanmudalige.github.io](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)))
+<!-- [![Alt Text](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)]([[https://www.digitalocean.com/products/app-platform](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)]([https://nishanmudalige.github.io](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png))) -->
 
-<!-- # Hi There -->
+ # Hi There 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanmudalige&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
 
