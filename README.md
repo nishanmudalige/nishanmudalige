@@ -15,6 +15,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 ---
 
 ### My GitHub Summary
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishanmudalige)](https://git.io/streak-stats)
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige) 
 
