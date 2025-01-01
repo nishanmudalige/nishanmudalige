@@ -1,4 +1,4 @@
-[![Alt Text](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)]
+![Alt Text](https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/banner.png)
 
 <!-- # Hi There -->
 
