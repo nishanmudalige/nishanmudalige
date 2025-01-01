@@ -1,4 +1,4 @@
-[![Alt Text](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)]([[https://www.digitalocean.com/products/app-platform](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)]([https://nishanmudalige.github.io](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)))
+[![Alt Text](https://raw.githubusercontent.com/nishanmudalige/GoodsteinSequence/refs/heads/main/banner.png)]
 
 <!-- # Hi There -->
 
