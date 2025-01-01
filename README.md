@@ -19,7 +19,9 @@ To find out more, please visit my personal [website](#Website) (Please note this
 ### My GitHub Summary
 [![GitHub Streak](https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige)](https://git.io/streak-stats)
 
-![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige) 
+[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github)]
+
+<!-- ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact)
 
