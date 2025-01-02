@@ -29,7 +29,9 @@ To find out more, please visit my personal [website](#Website) (Please note this
 -->
 <div align="center">
 
+<!--
 ![nishanmudalige github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige)
+-->
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue)](https://git.io/streak-stats)
 
@@ -41,7 +43,10 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=500)
 
+
+<!--
 ![nishanmudalige github-trophies](https://stats.dooboo.io/api/github-trophies?login=nishanmudalige)
+-->
 
 </div>
 
