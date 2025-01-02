@@ -29,7 +29,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 -->
 <div align="center">
 
-![Alternative](https://stats.hyo.dev/api/github-stats-advanced?login=nishanmudalige)
+![Alternative](https://stats.hyo.dev/api/github-stats-advanced?login=hyochan)
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue)](https://git.io/streak-stats)
 
