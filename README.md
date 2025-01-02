@@ -41,7 +41,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ### Currently
 
-- Teaching classes in the Fall.
+- Preparing for classes in Winter 2025.
 
 ##
 
