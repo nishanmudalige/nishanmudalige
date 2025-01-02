@@ -27,7 +27,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="240" alt="activity-graph"  />
 </div>
 -->
-[![GitHub Activity Graph]([https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph))](https://git.io/streak-stats)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige)](https://git.io/streak-stats)
 
