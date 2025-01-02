@@ -51,12 +51,23 @@ To find out more, please visit my personal [website](#Website) (Please note this
 <!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
 - Website: https://nishanmudalige.github.io
 
-<br>
-<br>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+-->
 
 <!--
 ### Current Projects
