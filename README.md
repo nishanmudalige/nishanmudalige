@@ -41,6 +41,8 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=500)
 
+![nishanmudalige github-trophies](https://stats.dooboo.io/api/github-trophies?login=nishanmudalige)
+
 </div>
 
 ---
