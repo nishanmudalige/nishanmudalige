@@ -29,6 +29,8 @@ To find out more, please visit my personal [website](#Website) (Please note this
 -->
 <div align="center">
 
+![Alternative](https://stats.hyo.dev/api/github-stats-advanced?login=nishanmudalige)
+
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=500)](https://git.io/streak-stats)
