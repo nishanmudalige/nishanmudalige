@@ -1,5 +1,6 @@
+<!--
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Nishan&fontColor=000000&fontSize=70&textBg=false&descAlign=60&descAlignY=60&section=header)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Nishan&fontColor=000000&fontSize=70&textBg=false&descAlign=60&descAlignY=60&section=header"/>
 </p>
 
 <!-- ![Alt Text](https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/banner.png) -->
