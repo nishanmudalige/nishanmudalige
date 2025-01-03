@@ -35,14 +35,14 @@ To find out more, please visit my personal [website](#Website) (Please note this
 <br>
 <br>
 
-<img height=150 width=450 align="center" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
-<img height=150 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
+<img height=150 align="center" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=450"/>
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=450"/>
 
 <br>
 <br>
   
-<img height=150 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
-<img height=150 width=450 align="center" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=450"/>
+<img height=150 align="center" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige&card_width=450"/>
 
 
 <!-- ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&card_width=500) -->
