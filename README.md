@@ -22,7 +22,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ### My GitHub Summary
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!--
 ![nishanmudalige github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige)
@@ -53,7 +53,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 ![nishanmudalige github-trophies](https://stats.dooboo.io/api/github-trophies?login=nishanmudalige)
 -->
 
-</div>
+<!-- </div> -->
 
 ---
 
