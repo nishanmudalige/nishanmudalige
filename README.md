@@ -91,7 +91,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
    - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
    - [TeXShop](https://pages.uoregon.edu/koch/texshop/) for LaTeX
 
-###
+---
 
 ### Website
 <!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
