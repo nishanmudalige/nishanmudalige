@@ -42,19 +42,19 @@ To find out more, please visit my personal [website](#Website) (Please note this
 </div>
 
 <br>
-<br>
 
 <div align="center">
-  <img height="175" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
+  <img height="190" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
+  &nbsp;&nbsp;
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
 </div>
 
 <br>
-<br>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
-  <img height="175" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
+  &nbsp;&nbsp;
+  <img height="190" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
 
 
