@@ -52,9 +52,9 @@ To find out more, please visit my personal [website](#Website) (Please note this
 <br>
 
 <div align="center">
-  <img height="210" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
   &nbsp;&nbsp;
-  <img height="210" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
+  <img height="200" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
 
 
