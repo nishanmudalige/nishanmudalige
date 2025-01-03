@@ -38,7 +38,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 
 <div align="center">
-  <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue"/>
 </div>
 
 
