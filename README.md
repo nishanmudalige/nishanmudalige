@@ -41,13 +41,21 @@ To find out more, please visit my personal [website](#Website) (Please note this
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue"/>
 </div>
 
+<br>
+<br>
 
 <div align="center">
   <img height="175" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
 </div>
 
+<br>
+<br>
 
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
+  <img height="175" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
+</div>
 
 
 
