@@ -43,8 +43,8 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
+  <img height="175" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
 </div>
 
 
