@@ -33,12 +33,14 @@ To find out more, please visit my personal [website](#Website) (Please note this
 </a>
 
 <br>
+<br>
 
 <a>
-  <img height=200 align="center" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400&height=300"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400&height=300"/>
+  <img height=200 align="center" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400"/>
 </a>
 
+<br>
 <br>
   
 <a>
