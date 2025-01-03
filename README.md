@@ -24,14 +24,6 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 <!--
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="240" alt="activity-graph"  />
-</div>
--->
-<div align="center">
-
-<!--
-![nishanmudalige github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige)
--->
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue)
 
@@ -41,14 +33,15 @@ To find out more, please visit my personal [website](#Website) (Please note this
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=500)
 ![Alt Activity Graph](https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige&card_width=500)
 
-
-
-
-<!--
-![nishanmudalige github-trophies](https://stats.dooboo.io/api/github-trophies?login=nishanmudalige)
+</div>
 -->
 
+
+<div align="center">
+  <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue"/>
 </div>
+
+
 
 ---
 
