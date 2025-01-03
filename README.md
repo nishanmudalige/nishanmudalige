@@ -66,7 +66,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 - Preparing for classes in Winter 2025.
 
-##
+###
 
 ### Coding
 
@@ -77,18 +77,21 @@ To find out more, please visit my personal [website](#Website) (Please note this
   </a>
 </p>
 
+##
 
 - I mostly code in
    <!-- - [SAS](https://www.sas.com/) -->
    - [R](https://www.r-project.org/)
    - [Python](https://www.python.org/)
 
+##
+
 - My prefered editor's/IDE's
    - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
    - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
    - [TeXShop](https://pages.uoregon.edu/koch/texshop/) for LaTeX
 
-##
+###
 
 ### Website
 <!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
