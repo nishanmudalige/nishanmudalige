@@ -22,21 +22,25 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ### My GitHub Summary
 
-<a>
+<p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue" />
-</a>
+</p>
 
 <br>
 <br>
 
+<p>
 <img width="425" height="195" align="left" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=450"/>
 <img width="425" height="195" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
+</p>
 
 <br>
 <br>
-  
+
+<p>
 <img width="425" height="195" align="left" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
 <img width="425" height="195" align="left" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
+</p>
 
 <!-- ![nishanmudalige github-trophies](https://stats.dooboo.io/api/github-trophies?login=nishanmudalige) -->
 
