@@ -39,7 +39,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=500)
-![Alt Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph)
+![Alt Activity Graph](https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige&card_width=500)
 
 
 
