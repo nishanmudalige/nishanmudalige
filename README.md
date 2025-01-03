@@ -22,7 +22,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ### My GitHub Summary
 
-<!-- <div align="center"> -->
+<div align="center">
 
 <!--
 ![nishanmudalige github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige)
@@ -44,16 +44,17 @@ To find out more, please visit my personal [website](#Website) (Please note this
 <img width="425" height="195" align="left" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
 <img width="425" height="195" align="left" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 
-<br>
-<br>
-
 <!-- ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&card_width=500) -->
 
 <!--
 ![nishanmudalige github-trophies](https://stats.dooboo.io/api/github-trophies?login=nishanmudalige)
 -->
 
-<!-- </div> -->
+</div>
+
+
+<br>
+<br>
 
 ---
 
