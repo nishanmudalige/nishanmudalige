@@ -39,8 +39,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400)
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=500)
-
-<!-- ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&card_width=500) -->
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&card_width=500)
 
 
 
