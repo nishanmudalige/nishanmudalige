@@ -38,8 +38,8 @@ To find out more, please visit my personal [website](#Website) (Please note this
 ![GitHub Streak](https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400)
 
-![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=500)
-![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&card_width=500)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=500)
+![Alt Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph)
 
 
 
