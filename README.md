@@ -33,7 +33,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 ![nishanmudalige github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige)
 -->
 
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue)](https://git.io/streak-stats)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue&card_width=500&card_height=200)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=500&card_height=200)
 
 [![GitHub Streak](https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=500)](https://git.io/streak-stats)
 
@@ -41,7 +41,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 <!-- ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&card_width=500) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=500)
+
 
 
 <!--
