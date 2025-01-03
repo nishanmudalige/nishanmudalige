@@ -22,11 +22,6 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ### My GitHub Summary
 
-<!--
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="240" alt="activity-graph"  />
-</div>
--->
 <div align="center">
 
 <!--
@@ -37,12 +32,19 @@ To find out more, please visit my personal [website](#Website) (Please note this
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue" />
 </a>
 
+<br>
+
 <a>
-  <img align="center" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400&height=300"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400&height=300"/>
+  <img height=200 align="center" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400&height=300"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400&height=300"/>
 </a>
 
-![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=500)
+<br>
+  
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=500"/>
+</a>
+
 
 <!-- ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&card_width=500) -->
 
