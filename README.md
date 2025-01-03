@@ -22,32 +22,36 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 ### My GitHub Summary
 
-<p>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue" />
-</p>
+<!--
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="240" alt="activity-graph"  />
+</div>
+-->
+<div align="center">
 
-<br>
-<br>
+<!--
+![nishanmudalige github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige)
+-->
 
-<p>
-<img width="400" height="195" align="left" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=450"/>
-<img width="400" height="195" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
-</p>
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue)](https://git.io/streak-stats)
 
-<br>
-<br>
+[![GitHub Streak](https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400)
+[![GitHub Streak](https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400&height=200)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400&height=200)
 
-<p>
-<img width="400" height="195" align="left" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
-<img width="400" height="195" align="left" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
-</p>
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&card_width=500)
 
-<!-- ![nishanmudalige github-trophies](https://stats.dooboo.io/api/github-trophies?login=nishanmudalige) -->
-
-<br>
-<br>
+<!-- ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanmudalige&card_width=500) -->
 
 
+
+
+<!--
+![nishanmudalige github-trophies](https://stats.dooboo.io/api/github-trophies?login=nishanmudalige)
+-->
+
+</div>
 
 ---
 
@@ -84,6 +88,8 @@ To find out more, please visit my personal [website](#Website) (Please note this
 - Website: https://nishanmudalige.github.io
 
 
+</div>
+
 <!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
@@ -98,10 +104,8 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 <!--
 ### Current Projects
-
 - Developing a staging algorithm
 - Snowflake training
-
 ##
 -->
 
@@ -111,7 +115,6 @@ To find out more, please visit my personal [website](#Website) (Please note this
       - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
       - Available [here](https://pubmed.ncbi.nlm.nih.gov/37409410/)
       - Started in 2022, completed in 2023
-
 ### Recent Completed Projects (2022)
 - Presented a chapter at Health Professional Book Club
    - Markdown available [here](https://github.com/nishanmudalige/BookClubCVExample)
@@ -123,4 +126,3 @@ To find out more, please visit my personal [website](#Website) (Please note this
    - [TreeBranchModeller](https://github.com/nishanmudalige/TreeBranchModeller)
    - Joint work with [Dr. Loius-Paul Rivest](https://www.mat.ulaval.ca/lrivest/louis-paul-rivest/) (Laval), [Dr. Pierre Dutilleul](https://www.mcgill.ca/plant/faculty/dutilleul) (McGill).
 -->
-
