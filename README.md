@@ -32,11 +32,11 @@ To find out more, please visit my personal [website](#Website) (Please note this
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue" />
 </a>
 
-</br>
-</br>
+<br>
+<br>
 
-<img height=200 align="center" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400"/>
+<img height=200 align="center" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=375"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=375"/>
 
 <br>
 <br>
