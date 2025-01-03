@@ -66,7 +66,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 
 - Preparing for classes in Winter 2025.
 
-###
+---
 
 ### Coding
 
