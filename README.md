@@ -44,9 +44,9 @@ To find out more, please visit my personal [website](#Website) (Please note this
 <br>
 
 <div align="center">
-  <img height="190" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
+  <img height="210" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
   &nbsp;&nbsp;
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
 </div>
 
 <br>
