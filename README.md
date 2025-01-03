@@ -44,15 +44,15 @@ To find out more, please visit my personal [website](#Website) (Please note this
 <br>
 
 <div align="center">
-  <img height="190" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige"/>
+  <img height="190" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&theme=github_dark"/>
   &nbsp;&nbsp;
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&theme=github_dark"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="207" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github"/>
+  <img height="207" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&theme=github_dark"/>
   &nbsp;&nbsp;
   <img height="207" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
