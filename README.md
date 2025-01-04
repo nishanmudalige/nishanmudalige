@@ -8,9 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanmudalige&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
 
- <div align="center">
-        <img alt="Visitor Stats" src="https://widgetbite.com/stats/nishanmudalige&theme=algolia"/>  
+<!-- 
+<div align="center">
+<img alt="Visitor Stats" src="https://widgetbite.com/stats/nishanmudalige"/>  
 </div>
+-->
 
 I am an [Assistant Professor (Teaching Stream) in Statistics](https://www.utm.utoronto.ca/math-cs-stats/people/nishan-mudalige)
 with the
