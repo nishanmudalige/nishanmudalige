@@ -60,7 +60,7 @@ To find out more, please visit my personal [website](#Website) (Please note this
 <div align="center">
   <img height="207" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&rank_icon=github&theme=algolia"/>
   &nbsp;&nbsp;
-  <img height="207" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige&theme=algolia"/>
+  <img height="207" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige&theme=vue"/>
 </div>
 
 
