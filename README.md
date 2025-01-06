@@ -70,7 +70,7 @@ at the
 
 ### Currently
 
-- Preparing for classes in Winter 2025.
+- Teaching classes in the Winter 2025 semester.
 
 ---
 
