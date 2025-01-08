@@ -76,12 +76,13 @@ at the
 
 ### Coding
 
-<!-- <p align="center"> -->
+<!-- <p align="center"> 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,py,git,github,latex,md,bash,matlab" />
   </a>
 </p>
+-->
 
 ##
 
