@@ -82,9 +82,9 @@ at the
     <img src="https://skillicons.dev/icons?i=r,py,git,github,latex,md,bash,matlab" />
   </a>
 </p>
--->
 
 ##
+-->
 
 - I mostly code in
    <!-- - [SAS](https://www.sas.com/) -->
