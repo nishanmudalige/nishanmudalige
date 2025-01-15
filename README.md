@@ -71,6 +71,8 @@ at the
 ### Currently
 
 - Teaching classes in the Winter 2025 semester.
+   - STA258
+   - STA260
 
 ---
 
