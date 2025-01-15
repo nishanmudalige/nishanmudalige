@@ -72,7 +72,7 @@ at the
 
 - Teaching classes in the Winter 2025 semester.
    - STA258: Statistics with Applied Probability
-   - STA260: 
+   - STA260: Probability and Statistics II
 
 ---
 
