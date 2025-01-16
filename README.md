@@ -70,7 +70,7 @@ at the
 
 ### Currently
 
-- Teaching classes in the Winter 2025 semester.
+- Teaching classes in the Winter 2025 semester at UTM.
    - STA258: Statistics with Applied Probability
    - STA260: Probability and Statistics II
 
