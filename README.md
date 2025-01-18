@@ -102,6 +102,7 @@ at the
 
 ### Coding 
 
+<!-- https://readme-typing-svg.demolab.com/demo/?lines=Coding -->
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&duration=2000&pause=1000&color=000000&vCenter=true&width=400&height=30&lines=Coding)](https://git.io/typing-svg)
 -->
