@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer"/>
 </div>
 
 <!-- white: d1d7e0 -->
