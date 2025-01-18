@@ -75,7 +75,7 @@ at the
 <!-- ### Currently -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Currently&fontSize=52&section=header&reversal=false&fontColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Currently&fontSize=34&section=header&reversal=false&fontColor=000000"/>
 </p>
 
 - Teaching classes in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
