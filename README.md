@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Nishan&fontColor=000000&fontSize=70&textBg=false&descAlign=60&descAlignY=60&section=header"/>
 </p>
 
+
+
 <!-- can be accesssed at: https://capsule-render.vercel.app/ -->
 
 <!-- ![Alt Text](https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/banner.png) -->
@@ -107,6 +109,13 @@ at the
 ### Website
 <!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
 - Website: https://nishanmudalige.github.io
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&section=footer"/>
+</p>
+
+
 
 
 </div>
