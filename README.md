@@ -72,7 +72,11 @@ at the
 
 ---
 
-### Currently
+<!-- ### Currently -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Currently&section=header&reversal=false&fontColor=000000"/>
+</p>
 
 - Teaching classes in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
    - STA258: Statistics with Applied Probability
