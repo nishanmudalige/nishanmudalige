@@ -111,8 +111,10 @@ at the
 - Website: https://nishanmudalige.github.io
 
 
+<!-- Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&animation=twinkling&section=footer"/>
 </p>
 
 
