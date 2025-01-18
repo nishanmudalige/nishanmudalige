@@ -23,7 +23,8 @@
 ### Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 <div align="center">
-  <img  width="52%" height="52%" 
+  <img  width="52%" 
+        height="61%" 
         src="https://github.com/nishanmudalige/nishanmudalige/blob/b626b9c26aa263f49e89417bca182c839cbd0b40/Assets/stats_distrib-no-bg-cropped.gif"/>
 </div>
 
