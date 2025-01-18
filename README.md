@@ -24,7 +24,7 @@
 
 <div align="center">
   <img  width="35%" height="35%" 
-        src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
+        src="https://github.com/nishanmudalige/nishanmudalige/blob/3bb96140476749db76351520b48b9fd1ceda7d88/Assets/stats_distrib-no-bg.gif"/>
 </div>
 
 I am an [Assistant Professor (Teaching Stream) in Statistics](https://www.utm.utoronto.ca/math-cs-stats/people/nishan-mudalige)
