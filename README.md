@@ -26,7 +26,7 @@
 <div align="center">
   <img  width="52%" 
         height="70%" 
-        src="https://github.com/nishanmudalige/nishanmudalige/blob/b626b9c26aa263f49e89417bca182c839cbd0b40/Assets/stats_distrib-no-bg-cropped.gif"/>
+        src=https://github.com/nishanmudalige/nishanmudalige/blob/2cf177b515afe1bec513ee5588137ba66d531548/Assets/stats_distrib-no-bg-cropped-blue-green.gif"/>
 </div>
 
 <br>
