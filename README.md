@@ -24,7 +24,7 @@
 
 <div align="center">
   <img  width="52%" 
-        height="61%" 
+        height="70%" 
         src="https://github.com/nishanmudalige/nishanmudalige/blob/b626b9c26aa263f49e89417bca182c839cbd0b40/Assets/stats_distrib-no-bg-cropped.gif"/>
 </div>
 
