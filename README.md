@@ -23,8 +23,8 @@
 ### Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 <div align="center">
-  <img  width="35%" height="35%" 
-        src="https://github.com/nishanmudalige/nishanmudalige/blob/3bb96140476749db76351520b48b9fd1ceda7d88/Assets/stats_distrib-no-bg.gif"/>
+  <img  width="43%" height="43%" 
+        src="https://github.com/nishanmudalige/nishanmudalige/blob/b626b9c26aa263f49e89417bca182c839cbd0b40/Assets/stats_distrib-no-bg-cropped.gif"/>
 </div>
 
 I am an [Assistant Professor (Teaching Stream) in Statistics](https://www.utm.utoronto.ca/math-cs-stats/people/nishan-mudalige)
