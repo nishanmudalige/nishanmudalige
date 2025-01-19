@@ -1,6 +1,3 @@
-
-![Weather](https://2877db898478441488d2e9b0ccf96ff6.elf.site/)
-
 <!--
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode"
