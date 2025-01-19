@@ -1,9 +1,7 @@
 <p align="center"
 href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/api/v1/github/profiles/30182885/views/day-week-month-total-count.svg">
 </p>
-
 ##
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Nishan&fontColor=000000&fontSize=70&textBg=false&descAlign=60&descAlignY=60&section=header"/>
 </div>
