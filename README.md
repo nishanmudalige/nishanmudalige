@@ -1,3 +1,6 @@
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-2877db89-8478-4414-88d2-e9b0ccf96ff6" data-elfsight-app-lazy></div>
+
 <!--
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode"
