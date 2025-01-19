@@ -1,5 +1,6 @@
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-2877db89-8478-4414-88d2-e9b0ccf96ff6" data-elfsight-app-lazy></div>
+<div align="center">
+  <img src="https://2877db898478441488d2e9b0ccf96ff6.elf.site/"/>
+</div>
 
 <!--
 <div align="center">
