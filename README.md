@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode"
-    width="52%"
-    height="52%"
+    width="70%"
+    height="70%"
     />
 </div>
 
