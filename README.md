@@ -82,7 +82,7 @@ at the
     height="86%"
   />
   <img
-    src="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/api/v1/github/profiles/30182885/views/day-week-month-total-count.svg"
+    src="https://u8views.com/github/nishanmudalige"
   />
 </div>
 
