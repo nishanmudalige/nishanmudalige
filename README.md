@@ -1,6 +1,6 @@
-<!-- Begin WeatherLink Fragment -->
-<iframe title="Environment Canada Weather" width="296" height="191" src="https://weather.gc.ca/wxlink/wxlink.html?coords=43.586%2C-79.657&lang=e" allowtransparency="true" style="border: 0;"></iframe>
-<!-- End WeatherLink Fragment -->
+<div align="center">
+  <img src="https://weather.gc.ca/wxlink/wxlink.html?coords=43.586%2C-79.657&lang=e" allowtransparency="true" style="border: 0;"/>
+</div>
 
 <!--
 <div align="center">
