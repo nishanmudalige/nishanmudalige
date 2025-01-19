@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://2877db898478441488d2e9b0ccf96ff6.elf.site/"/>
-</div>
+
+![Weather](https://2877db898478441488d2e9b0ccf96ff6.elf.site/)
 
 <!--
 <div align="center">
