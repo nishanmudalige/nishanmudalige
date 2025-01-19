@@ -1,6 +1,8 @@
 <p align="center"
+href="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode">
+</p>
+<p align="center"
 href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/api/v1/github/profiles/30182885/views/day-week-month-total-count.svg">
-href="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode"
 </p>
 
 ##
