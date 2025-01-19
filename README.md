@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://weather.gc.ca/wxlink/wxlink.html?coords=43.586%2C-79.657&lang=e" allowtransparency="true" style="border: 0;"/>
-</div>
-
 <!--
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode"
