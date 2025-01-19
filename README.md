@@ -78,13 +78,13 @@ at the
 <div align="center">
   <img 
     src="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode"
-    width="86%"
-    height="86%"
-  />
-  <img
-    src="https://u8views.com/github/nishanmudalige"
+    width="79%"
+    height="79%"
   />
 </div>
+<p align="center" href="https://u8views.com/github/nishanmudalige">
+  <img src="https://u8views.com/api/v1/github/profiles/30182885/views/day-week-month-total-count.svg">
+</p>
 
 <!--
 <p align="center"
