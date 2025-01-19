@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode"
     width="86%"
@@ -8,6 +9,7 @@
 <p align="center"
 href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/api/v1/github/profiles/30182885/views/day-week-month-total-count.svg">
 </p>
+-->
 
 ##
 
@@ -73,6 +75,18 @@ at the
 </div>
 -->
 
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=nishanmudalige&data=followers,repositories,stars,commits&theme=darkmode"
+    width="86%"
+    height="86%"
+    />
+</p>
+
+<p align="center"
+href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/api/v1/github/profiles/30182885/views/day-week-month-total-count.svg">
+</p>
+
+##
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue"/>
