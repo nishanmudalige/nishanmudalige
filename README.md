@@ -5,13 +5,9 @@
 </div>
 
 <!-- white: d1d7e0 -->
-
-
 <!-- can be accesssed at: https://capsule-render.vercel.app/ -->
 
 <!-- ![Alt Text](https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/banner.png) -->
-
-<!-- # Hi There -->
 
 <!-- Profile view counter -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanmudalige&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p> -->
