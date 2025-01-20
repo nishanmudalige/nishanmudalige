@@ -47,7 +47,7 @@ at the
 <!--
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=github-compact)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue)
 
 ![GitHub Streak](https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&card_width=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&card_width=400)
@@ -78,7 +78,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ##
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=github-compact"/>
 </div>
 
 <br>
