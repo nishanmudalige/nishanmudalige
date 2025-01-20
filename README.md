@@ -1,3 +1,6 @@
+[![Environment Canada Weather](https://via.placeholder.com/296x191?text=Weather+Widget)](https://weather.gc.ca/wxlink/wxlink.html?coords=43.586%2C-79.657&lang=e)
+
+
 ##
 
 <div align="center">
