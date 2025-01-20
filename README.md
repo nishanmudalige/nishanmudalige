@@ -78,7 +78,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ##
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=github-compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=github"/>
 </div>
 
 <br>
