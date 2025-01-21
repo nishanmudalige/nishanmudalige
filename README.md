@@ -1,6 +1,3 @@
-[![Environment Canada Weather](https://via.placeholder.com/296x191?text=Weather+Widget)](https://weather.gc.ca/wxlink/wxlink.html?coords=43.586%2C-79.657&lang=e)
-
-
 ##
 
 <div align="center">
@@ -81,7 +78,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ##
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=algolia"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=vue"/>
 </div>
 
 <br>
