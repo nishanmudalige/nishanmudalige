@@ -76,7 +76,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ##
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=github"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanmudalige&theme=algolia"/>
 </div>
 
 <br>
