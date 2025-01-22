@@ -101,16 +101,10 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,cpp,bash,r,postgresql,mysql,markdown"
-    width="79%"
-    height="79%"  
+    width="50%"
+    height="50%"  
   />
 </div>
-
-<!--
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,cpp,bash,r,postgresql,mysql,markdown)](https://github.com/Jurredr/github-widgetbox)
--->
-
-
 
 ---
 
