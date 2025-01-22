@@ -145,6 +145,12 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
    - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
    - [TeXShop](https://pages.uoregon.edu/koch/texshop/) for LaTeX
 
+
+---
+### Skills
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,cpp,bash,r,postgresql,mysql,markdown)](https://github.com/Jurredr/github-widgetbox)
+
 ---
 
 ### Website
