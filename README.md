@@ -110,7 +110,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 </p>
 -->
 
-- Teaching classes in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
+- Teaching in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
    - STA258: Statistics with Applied Probability
    - STA260: Probability and Statistics II
 
