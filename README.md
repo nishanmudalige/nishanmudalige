@@ -97,15 +97,6 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   <img height="203" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
 
-##
-
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,cpp,bash,r,postgresql,mysql,markdown"
-    width="50%"
-    height="125%"  
-  />
-</div>
-
 ---
 
 ### Currently
