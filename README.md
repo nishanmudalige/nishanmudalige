@@ -97,6 +97,18 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   <img height="203" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
 
+##
+
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,cpp,bash,r,postgresql,mysql,markdown"
+    width="79%"
+    height="79%"  
+  />
+</div>
+
+<!--
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,cpp,bash,r,postgresql,mysql,markdown)](https://github.com/Jurredr/github-widgetbox)
+-->
 
 
 
@@ -144,12 +156,6 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
    - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
    - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
    - [TeXShop](https://pages.uoregon.edu/koch/texshop/) for LaTeX
-
-
----
-### Skills
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,cpp,bash,r,postgresql,mysql,markdown)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
