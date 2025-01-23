@@ -99,6 +99,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 ---
 
+<!--
 ### Skills
 
 <img 
@@ -106,6 +107,8 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 />
 
 ---
+-->
+
 ### Currently
 
 <!-- 
