@@ -20,7 +20,11 @@
 
 <!-- Animation from https://animated-fluent-emoji.vercel.app/ -->
 
-### Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+
+<img src = "https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/hello_no_bg.gif"
+  alt = "Hello" width="100%" height="100%" />
+
+<!-- ### Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> --?
 
 <div align="center">
   <img  width="52%" 
