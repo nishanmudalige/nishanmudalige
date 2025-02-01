@@ -24,13 +24,13 @@
 
 <!-- ### Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
 
+### Introduction
+
 <div align="center">
 <img width="15%" height="15%" src = "https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/hello_no_bg_cropped.gif" />
 </div>
 
 ##
-
-### Introduction
 
 <div align="center">
   <img  width="52%" 
