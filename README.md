@@ -24,7 +24,7 @@
 
 <!-- ### Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
 
-### <img width="5%" height="5%" src = "https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/hello_no_bg_cropped.gif" />
+### <img width="8%" height="8%" src = "https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/hello_no_bg_cropped.gif" />
 ---
 
 <div align="center">
