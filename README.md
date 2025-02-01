@@ -32,17 +32,17 @@
 
 ##
 
-<div align="center">
-  <img  width="52%" 
-        height="70%" 
-        src="https://github.com/nishanmudalige/nishanmudalige/blob/2cf177b515afe1bec513ee5588137ba66d531548/Assets/stats_distrib-no-bg-cropped-blue-green.gif"/>
-</div>
-
 I am an [Assistant Professor (Teaching Stream) in Statistics](https://www.utm.utoronto.ca/math-cs-stats/people/nishan-mudalige)
 with the
 [Department of Mathematical and Computational Sciences](https://www.utm.utoronto.ca/math-cs-stats/)
 at the 
 [University of Toronto at Mississauga](https://www.utm.utoronto.ca).
+
+<div align="center">
+  <img  width="52%" 
+        height="70%" 
+        src="https://github.com/nishanmudalige/nishanmudalige/blob/2cf177b515afe1bec513ee5588137ba66d531548/Assets/stats_distrib-no-bg-cropped-blue-green.gif"/>
+</div>
 
 <!-- My formal education and training is in mathemaics and applied statistics. -->
 
