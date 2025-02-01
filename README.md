@@ -25,15 +25,13 @@
 <!-- ### Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
 
 ### <img width="8%" height="8%" src = "https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/hello_no_bg_cropped.gif" />
----
+##
 
 <div align="center">
   <img  width="52%" 
         height="70%" 
         src="https://github.com/nishanmudalige/nishanmudalige/blob/2cf177b515afe1bec513ee5588137ba66d531548/Assets/stats_distrib-no-bg-cropped-blue-green.gif"/>
 </div>
-
-##
 
 I am an [Assistant Professor (Teaching Stream) in Statistics](https://www.utm.utoronto.ca/math-cs-stats/people/nishan-mudalige)
 with the
