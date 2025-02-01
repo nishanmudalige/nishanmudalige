@@ -30,7 +30,7 @@
 <img width="15%" height="15%" src = "https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/hello_no_bg_cropped.gif" />
 </div>
 
-##
+<!-- ## -->
 
 I am an [Assistant Professor (Teaching Stream) in Statistics](https://www.utm.utoronto.ca/math-cs-stats/people/nishan-mudalige)
 with the
