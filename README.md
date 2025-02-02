@@ -174,8 +174,10 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer"/>
 </div>
 
+<br>
+
 <div align="left">
-  <img src="https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=LAST+UPDATED&color=29bf12&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=LAST+UPDATED&color=0096FF&style=for-the-badge"/>
 </div>
 
 
