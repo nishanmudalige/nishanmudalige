@@ -151,10 +151,18 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ##
 -->
 
+#### Languages
+
 - I mostly code in
    <!-- - [SAS](https://www.sas.com/) -->
    - [R](https://www.r-project.org/)
    - [Python](https://www.python.org/)
+
+#### Typesetting
+
+- I often typeset in
+   - [LaTeX](https://www.latex-project.org/)
+   - [Markdown](https://www.markdownguide.org/)
 
 ##
 
