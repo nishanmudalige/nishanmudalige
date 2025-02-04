@@ -157,6 +157,8 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
    <!-- - [SAS](https://www.sas.com/) -->
    - [R](https://www.r-project.org/)
    - [Python](https://www.python.org/)
+ 
+##
 
 #### Typesetting
 
@@ -165,6 +167,8 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
    - [Markdown](https://www.markdownguide.org/)
 
 ##
+
+#### IDE's
 
 - My prefered editor's/IDE's
    - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
@@ -205,27 +209,3 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 </p>
 -->
 
-<!--
-### Current Projects
-- Developing a staging algorithm
-- Snowflake training
-##
--->
-
-<!--
-### Recently Completed Projects (2023)
-   - Cardiology
-      - Joint work with [Dr. Carlo Barcella](https://esc365.escardio.org/person/477456) (Denmark)
-      - Available [here](https://pubmed.ncbi.nlm.nih.gov/37409410/)
-      - Started in 2022, completed in 2023
-### Recent Completed Projects (2022)
-- Presented a chapter at Health Professional Book Club
-   - Markdown available [here](https://github.com/nishanmudalige/BookClubCVExample)
-- Publication on trees (i.e. trees in nature)
-   - Joint work with [Dr. Loius-Paul Rivest](https://www.mat.ulaval.ca/lrivest/louis-paul-rivest/) (Laval), [Dr. Pierre Dutilleul](https://www.mcgill.ca/plant/faculty/dutilleul) (McGill)
-   - The journal article that resulted from this work is available [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274168)
-    <!-- Further details after embargo is lefted by the publisher.
-- Completed an R package
-   - [TreeBranchModeller](https://github.com/nishanmudalige/TreeBranchModeller)
-   - Joint work with [Dr. Loius-Paul Rivest](https://www.mat.ulaval.ca/lrivest/louis-paul-rivest/) (Laval), [Dr. Pierre Dutilleul](https://www.mcgill.ca/plant/faculty/dutilleul) (McGill).
--->
