@@ -176,7 +176,8 @@ My prefered editor's/IDE's
 
 ---
 
-### Website
+### Website <img src="https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/website.gif" alt="Waving Hand" width="25" height="25" />
+
 <!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
 - Website: https://nishanmudalige.github.io
 
