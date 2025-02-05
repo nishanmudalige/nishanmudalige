@@ -161,18 +161,18 @@ I mostly code in
 
 #### Typesetting
 
-- I often typeset in
-   - [LaTeX](https://www.latex-project.org/)
-   - [Markdown](https://www.markdownguide.org/)
+I often typeset content in
+- [LaTeX](https://www.latex-project.org/)
+- [Markdown](https://www.markdownguide.org/)
 
 ##
 
 #### IDE's
 
-- My prefered editor's/IDE's
-   - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
-   - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
-   - [TeXShop](https://pages.uoregon.edu/koch/texshop/) for LaTeX
+My prefered editor's/IDE's
+- [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
+- [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
+- [TeXShop](https://pages.uoregon.edu/koch/texshop/) for LaTeX
 
 ---
 
