@@ -53,7 +53,7 @@ at the
 
 ---
 
-### My GitHub Summary
+### My GitHub Summary <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" />
 
 <!--
 <div align="center">
