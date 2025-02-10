@@ -120,7 +120,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ---
 -->
 
-### Currently
+### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" />
 
 <!-- 
 <p align="center">
