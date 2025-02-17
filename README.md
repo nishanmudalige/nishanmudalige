@@ -134,7 +134,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 ---
 
-### Coding 
+### Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
 
 <!-- https://readme-typing-svg.demolab.com/demo/?lines=Coding -->
 <!--
