@@ -167,7 +167,7 @@ I often typeset content in
 
 ##
 
-#### IDE's <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mage%20Medium%20Skin%20Tone.png" alt="Mage Medium Skin Tone" width="25" height="25" />
+#### IDE's <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" />
 
 My prefered editor's/IDE's
 - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
