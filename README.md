@@ -151,7 +151,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ##
 -->
 
-#### Languages
+#### Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" />
 
 I mostly code in
 - [R](https://www.r-project.org/)
