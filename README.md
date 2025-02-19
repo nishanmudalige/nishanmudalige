@@ -53,7 +53,7 @@ at the
 
 ---
 
-### My GitHub Summary
+### My GitHub Summary <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />
 
 <!--
 <div align="center">
@@ -120,7 +120,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ---
 -->
 
-### Currently
+### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" />
 
 <!-- 
 <p align="center">
@@ -134,7 +134,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 ---
 
-### Coding 
+### Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
 
 <!-- https://readme-typing-svg.demolab.com/demo/?lines=Coding -->
 <!--
@@ -151,7 +151,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ##
 -->
 
-#### Languages
+#### Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
 
 I mostly code in
 - [R](https://www.r-project.org/)
@@ -159,7 +159,7 @@ I mostly code in
  
 ##
 
-#### Typesetting
+#### Typesetting <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="25" height="25" />
 
 I often typeset content in
 - [LaTeX](https://www.latex-project.org/)
@@ -167,7 +167,7 @@ I often typeset content in
 
 ##
 
-#### IDE's
+#### IDE's <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" />
 
 My prefered editor's/IDE's
 - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
@@ -176,7 +176,7 @@ My prefered editor's/IDE's
 
 ---
 
-### Website <img src="https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/website.gif" alt="Waving Hand" width="25" height="25" />
+### Website <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />
 
 <!-- - Email: nishan [dot] mudalige [at] gmail [dot] com -->
 - Website: https://nishanmudalige.github.io
