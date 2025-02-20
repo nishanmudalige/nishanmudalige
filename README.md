@@ -108,9 +108,10 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   <img height="203" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
 
+<br>
 
 <div align="center">
-  <img height="304" width="990" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/aaaed293-0415-480d-8702-a21e5cefd1fd.svg" />
+  <img height="275" width="990" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/aaaed293-0415-480d-8702-a21e5cefd1fd.svg" />
 </div>
 
 ---
