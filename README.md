@@ -181,7 +181,8 @@ I often typeset content in
 My prefered editor's/IDE's
 - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
 - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
-- [Visual Studio Code](https://code.visualstudio.com) for LaTeX
+- [Visual Studio Code](https://code.visualstudio.com) with for LaTeX
+   - With [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
 
 ---
 
