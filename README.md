@@ -181,8 +181,13 @@ I often typeset content in
 My prefered editor's/IDE's
 - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
 - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
-- [Visual Studio Code](https://code.visualstudio.com) with for LaTeX
-   - With [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
+- [Visual Studio Code](https://code.visualstudio.com) with for LaTeX with the following plugins
+   - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+   - [LaTeX Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
+   - [Latex Workshop_sanity](https://marketplace.visualstudio.com/items?itemName=vomout.latex-workshop-sanity)
+   - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
+
+<!-- https://mathjiajia.github.io/vscode-and-latex/ -->
 
 ---
 
