@@ -75,6 +75,15 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   <img height="203" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
 
+<br>
+
+
+<div align="center">
+  <img height="250" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/aaaed293-0415-480d-8702-a21e5cefd1fd.svg"/>
+  &nbsp;&nbsp;
+  <img height="250" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/958265e5-b5c6-4d6a-843a-02bf2d074953.svg"/>
+</div>
+
 ---
 
 <!--
@@ -101,10 +110,10 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 ---
 
-### Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
+### Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
 
 
-#### Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+#### Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Latin%20Letters.png" alt="Input Latin Letters" width="25" height="25" />
 
 I mostly code in
 - [R](https://www.r-project.org/)
@@ -125,7 +134,13 @@ I often typeset content in
 My prefered editor's/IDE's
 - [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
 - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
-- [TeXShop](https://pages.uoregon.edu/koch/texshop/) for LaTeX
+- [Visual Studio Code](https://code.visualstudio.com) for LaTeX with the following plugins
+   - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+   - [LaTeX Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
+   - [Latex Workshop_sanity](https://marketplace.visualstudio.com/items?itemName=vomout.latex-workshop-sanity)
+   - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
+
+<!-- https://mathjiajia.github.io/vscode-and-latex/ -->
 
 ---
 
