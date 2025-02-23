@@ -83,7 +83,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   &nbsp;&nbsp;
   <img height="250" width="270" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/958265e5-b5c6-4d6a-843a-02bf2d074953.svg"/>
   &nbsp;&nbsp;
-  <img height="250" width="270" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/2b7b1fae-165f-44ae-b0ad-827dd3727184.svg"/>
+  <img height="250" width="270" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/ed3c883b-6092-4884-8eba-55c1a2f73e78.svg"/>
 </div>
 
 ---
