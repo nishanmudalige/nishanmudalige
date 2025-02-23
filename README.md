@@ -21,6 +21,20 @@ at the
 
 ---
 
+### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" />
+
+<!-- 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Currently&fontSize=34&section=header&reversal=false&fontColor=000000"/>
+</p>
+-->
+
+- Teaching in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
+   - STA258: Statistics with Applied Probability
+   - STA260: Probability and Statistics II
+
+---
+
 ### My GitHub Summary <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />
 
 <!--
@@ -76,22 +90,6 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   <img height="203" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/aaaed293-0415-480d-8702-a21e5cefd1fd.svg"/>
-  &nbsp;&nbsp;
-  <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/958265e5-b5c6-4d6a-843a-02bf2d074953.svg"/>
-</div>
-
-<br>
-  
-<div align="center">
-  <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/ed3c883b-6092-4884-8eba-55c1a2f73e78.svg"/>
-  &nbsp;&nbsp;
-  <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/7d951df1-b797-40c3-92a7-9941cdb565d6.svg"/>
-</div>
-
 ---
 
 <!--
@@ -100,23 +98,9 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 <img 
   src="https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,cpp,bash,r,postgresql,mysql,markdown" 
 />
-
----
 -->
 
-### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" />
 
-<!-- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Currently&fontSize=34&section=header&reversal=false&fontColor=000000"/>
-</p>
--->
-
-- Teaching in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
-   - STA258: Statistics with Applied Probability
-   - STA260: Probability and Statistics II
-
----
 
 ### Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
 
@@ -149,6 +133,25 @@ My prefered editor's/IDE's
    - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
 
 <!-- https://mathjiajia.github.io/vscode-and-latex/ -->
+
+---
+
+### Coding Stats
+
+<div align="center">
+  <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/aaaed293-0415-480d-8702-a21e5cefd1fd.svg"/>
+  &nbsp;&nbsp;
+  <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/958265e5-b5c6-4d6a-843a-02bf2d074953.svg"/>
+</div>
+
+<br>
+  
+<div align="center">
+  <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/ed3c883b-6092-4884-8eba-55c1a2f73e78.svg"/>
+  &nbsp;&nbsp;
+  <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/7d951df1-b797-40c3-92a7-9941cdb565d6.svg"/>
+</div>
+
 
 ---
 
