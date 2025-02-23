@@ -139,8 +139,6 @@ My prefered editor's/IDE's
 <!--
 ### Libraries
 
-<!-- #### R Libraries -->
-
 <div align="center">
   <img height="125" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/devtools.svg"/>
   &nbsp;&nbsp;
