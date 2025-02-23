@@ -135,6 +135,53 @@ My prefered editor's/IDE's
 <!-- https://mathjiajia.github.io/vscode-and-latex/ -->
 
 ---
+### Libraries
+
+<!-- #### R Libraries -->
+
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/devtools.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/dplyr.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/dtplyr.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/ggplot2.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/haven.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/knitr.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/lubridate.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/purrr.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/readxl.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/readr.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/rmarkdown.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/roxygen2.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/shiny.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/stringr.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/tensorflow.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/testthat.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/tibble.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/tidyr.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/tidyverse.svg"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/torch.svg"/>
+</div>
+
+---
 
 ### Coding Stats
 
