@@ -222,7 +222,7 @@ My prefered editor's/IDE's
 
 
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=If%20you%20like%20this%20ReadMe,%20please%20give%20it%20a%20star&fontSize=25&fontColor=000000&animation=fadeIn&stroke=000000&strokeWidth=1&reversal=false&fontAlign=49">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=If%20you%20like%20this%20ReadMe,%20please%20give%20it%20a%20star&fontSize=16&fontColor=000000&animation=fadeIn&stroke=000000&strokeWidth=1&reversal=false&fontAlign=49">
 </p>
 
 
