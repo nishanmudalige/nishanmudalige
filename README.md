@@ -135,6 +135,8 @@ My prefered editor's/IDE's
 <!-- https://mathjiajia.github.io/vscode-and-latex/ -->
 
 ---
+
+<!--
 ### Libraries
 
 <!-- #### R Libraries -->
@@ -182,6 +184,7 @@ My prefered editor's/IDE's
 </div>
 
 ---
+-->
 
 ### Coding Stats
 
