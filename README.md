@@ -85,7 +85,8 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 <br>
 
 <div align="center">  
-  <img height="203" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&show_icons=true&rank_icon=github&theme=algolia"/>
+  <!-- <img height="203" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&show_icons=true&rank_icon=github&theme=algolia"/> -->
+  <img height="203" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&show_icons=true&theme=algolia"/>
   &nbsp;&nbsp;
   <img height="203" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
