@@ -93,6 +93,15 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 ---
 
+
+### Commit History
+
+<div align="center">
+  <img src=https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg />
+</div>
+
+---
+
 <!--
 ### Skills
 
@@ -200,7 +209,6 @@ My prefered editor's/IDE's
   &nbsp;&nbsp;
   <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/7d951df1-b797-40c3-92a7-9941cdb565d6.svg"/>
 </div>
-
 
 ---
 
