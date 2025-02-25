@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib-fixed
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
@@ -7,16 +7,14 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Pull latest changes
-        run: git pull --force origin main
       - name: Commit & Push
         run: |
           git config user.name github-actions
