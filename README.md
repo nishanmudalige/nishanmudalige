@@ -91,10 +91,9 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   <img height="203" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
 </div>
 
----
 
+##
 
-### Commit History
 
 <div align="center">
   <img src=https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg />
