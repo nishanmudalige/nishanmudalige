@@ -11,17 +11,16 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
+      - uses: gumbobrot/github-profile-3d-contrib@0latest
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
-          USERNAME: ${{ github.nishanmudalige }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Pull latest changes
         run: git pull --force origin main
       - name: Commit & Push
         run: |
-          git config nishanmudalige github-actions
-          git config nishanmudalige@gmail.com github-actions@github.com
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
           git push
-
