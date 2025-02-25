@@ -220,10 +220,11 @@ My prefered editor's/IDE's
   <img src="https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=LAST+UPDATED&color=0096FF&style=for-the-badge"/>
 </div>
 
-<!--
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=If%20you%20like%20this%20ReadMe,%20please%20give%20it%20a%20Star%20⭐&fontSize=29&fontColor=2ad994&strokeWidth=0&stroke=00FF00&textBg=false">
--->
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=If%20you%20like%20this%20ReadMe,%20please%20give%20it%20a%20Star%20⭐&fontSize=29&fontColor=2ad994&strokeWidth=0&stroke=00FF00&textBg=false">
+
+<!--
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=If%20you%20like%20this%20ReadMe,%20please%20give%20it%20a%20Star%20⭐&fontSize=29&fontColor=000000&strokeWidth=0&stroke=00FF00&textBg=false">
+-->
 
 </p>
