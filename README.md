@@ -37,7 +37,7 @@ at the
 
 
 <details>
-	<summary> <h2>My GitHub Summary</h2></summary>
+	<summary> <h3>My GitHub Summary</h3></summary>
 
 <!-- 
 ### My GitHub Summary <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />
@@ -124,7 +124,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 
 <details>
-	<summary> <h2>Coding</h2></summary>
+	<summary> <h3>Coding</h3></summary>
 
 <!--
 ### Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
@@ -211,7 +211,13 @@ My prefered editor's/IDE's
 ---
 -->
 
+
+
+<details>
+	<summary> <h3>Coding Stats</h3></summary>
+<!--
 ### Coding Stats
+-->
 
 <div align="center">
   <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/aaaed293-0415-480d-8702-a21e5cefd1fd.svg"/>
@@ -226,6 +232,7 @@ My prefered editor's/IDE's
   &nbsp;&nbsp;
   <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/7d951df1-b797-40c3-92a7-9941cdb565d6.svg"/>
 </div>
+</details>
 
 ---
 
