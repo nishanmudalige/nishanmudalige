@@ -16,7 +16,7 @@ at the
 <div align="center">
   <img  width="52%" 
         height="70%" 
-        src="https://github.com/nishanmudalige/nishanmudalige/blob/2cf177b515afe1bec513ee5588137ba66d531548/Assets/stats_distrib-no-bg-cropped-blue-green.gif"/>
+        src="https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/stats_distrib-no-bg-cropped-blue-green.gif"/>
 </div>
 
 ---
