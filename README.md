@@ -106,7 +106,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
   <!-- <img src=https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg /> -->
 </div>
 
-<details>
+</details>
 
 ---
 
