@@ -35,7 +35,13 @@ at the
 
 ---
 
+
+<details>
+	<summary> <h2>My GitHub Summary</h2></summary>
+
+<!-- 
 ### My GitHub Summary <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />
+-->
 
 <!--
 <div align="center">
@@ -99,6 +105,8 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
     src="https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-green.svg" />
   <!-- <img src=https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg /> -->
 </div>
+
+<details>
 
 ---
 
