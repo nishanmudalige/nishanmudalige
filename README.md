@@ -112,6 +112,9 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 
 
+<details>
+	<summary> ### Coding  </summary>
+
 ### Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
 
 
@@ -141,6 +144,8 @@ My prefered editor's/IDE's
    - [LaTeX Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
    - [Latex Workshop_sanity](https://marketplace.visualstudio.com/items?itemName=vomout.latex-workshop-sanity)
    - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
+
+</details>
 
 <!-- https://mathjiajia.github.io/vscode-and-latex/ -->
 
