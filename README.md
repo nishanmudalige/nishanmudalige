@@ -23,11 +23,6 @@ at the
 
 ### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" />
 
-<!-- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Currently&fontSize=34&section=header&reversal=false&fontColor=000000"/>
-</p>
--->
 
 - Teaching in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
    - STA258: Statistics with Applied Probability
@@ -159,8 +154,6 @@ My prefered editor's/IDE's
 
 </details>
 
-<!-- https://mathjiajia.github.io/vscode-and-latex/ -->
-
 ---
 
 <!--
@@ -244,9 +237,8 @@ My prefered editor's/IDE's
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer"/>
 </div>
 
-##
 
-<br>
+---
 
 <div align="left">
   <img src="https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=LAST+UPDATED&color=0096FF&style=for-the-badge"/>
@@ -254,9 +246,3 @@ My prefered editor's/IDE's
 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=If%20you%20like%20this%20ReadMe,%20please%20give%20it%20a%20Star%20⭐&fontSize=29&fontColor=2ad994&strokeWidth=0&stroke=00FF00&textBg=false">
-
-<!--
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=If%20you%20like%20this%20ReadMe,%20please%20give%20it%20a%20Star%20⭐&fontSize=29&fontColor=000000&strokeWidth=0&stroke=00FF00&textBg=false">
--->
-
-</p>
