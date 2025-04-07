@@ -32,7 +32,7 @@ at the
 
 
 <details>
-	<summary> <h3>My GitHub Summary</h3></summary>
+	<summary> <h3>My GitHub Summary <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" alt="Notebook" width="25" height="25" /> </h3> </summary>
 
 <!-- 
 ### My GitHub Summary <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />
@@ -119,7 +119,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 
 <details>
-	<summary> <h3>Coding</h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> </summary>
+	<summary> <h3>Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> </h3> </summary>
 
 <!--
 ### Coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
@@ -207,7 +207,7 @@ My prefered editor's/IDE's
 
 
 <details>
-	<summary> <h3>Coding Stats</h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Antenna%20Bars.png" alt="Antenna Bars" width="25" height="25" /> </summary>
+	<summary> <h3>Coding Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Antenna%20Bars.png" alt="Antenna Bars" width="25" height="25" /> </h3> </summary>
 <!--
 ### Coding Stats
 -->
