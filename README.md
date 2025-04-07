@@ -207,7 +207,7 @@ My prefered editor's/IDE's
 
 
 <details>
-	<summary> <h3>Coding Stats</h3></summary>
+	<summary> <h3>Coding Stats</h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Antenna%20Bars.png" alt="Antenna Bars" width="25" height="25" /> </summary>
 <!--
 ### Coding Stats
 -->
