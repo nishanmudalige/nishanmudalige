@@ -23,7 +23,7 @@ at the
 ### Future <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" alt="Right Arrow" width="25" height="25" /> 
 
 - Teaching in the Summer 2025 semester at [UTM](https://www.utm.utoronto.ca).
-   - STA258: Probability and Statistics I
+   - STA256: Probability and Statistics I
 
 
 ---
