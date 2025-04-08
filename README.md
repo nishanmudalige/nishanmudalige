@@ -31,7 +31,7 @@ at the
 ### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" /> 
 
 
-- Teaching in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
+- Teaching the following in the Winter 2025 semester at [UTM](https://www.utm.utoronto.ca).
    - STA258: Statistics with Applied Probability
    - STA260: Probability and Statistics II
 
