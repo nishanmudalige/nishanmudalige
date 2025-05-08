@@ -228,20 +228,6 @@ My prefered editor's/IDE's
   &nbsp;&nbsp;
   <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/958265e5-b5c6-4d6a-843a-02bf2d074953.svg"/>
 </div>
-
-<br>
-
-##
-
-<div align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanmudalige&theme=gotham"
-    width="81%"
-    height="81%"
-  />
-</div>
-
-##
   
 <div align="center">
   <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/ed3c883b-6092-4884-8eba-55c1a2f73e78.svg"/>
@@ -249,7 +235,17 @@ My prefered editor's/IDE's
   <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/7d951df1-b797-40c3-92a7-9941cdb565d6.svg"/>
 </div>
 
-<br>
+##
+
+<div align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanmudalige&theme=gotham"
+    width="100%"
+    height="100%"
+  />
+</div>
+
+##
   
 <div align="center">
   <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stainless-nata&theme=gotham"/>
