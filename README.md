@@ -232,7 +232,19 @@ My prefered editor's/IDE's
   &nbsp;&nbsp;
   <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/7d951df1-b797-40c3-92a7-9941cdb565d6.svg"/>
 </div>
+
+<br>
+  
+<div align="center">
+  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stainless-nata&theme=gotham"/>
+  &nbsp;&nbsp;
+  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stainless-nata&theme=gotham"/>
+</div>
 </details>
+
+
+</details>
+
 
 ---
 
