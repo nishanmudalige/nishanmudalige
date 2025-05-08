@@ -256,10 +256,9 @@ My prefered editor's/IDE's
 ##
 
 <div align="center">
-  <img 
+  <img
+    width="75%"
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishanmudalige&theme=gotham&utcOffset=-5"
-    width="100%"
-    height="50%"
   />
 </div>
 
