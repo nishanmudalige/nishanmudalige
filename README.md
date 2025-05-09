@@ -223,6 +223,7 @@ My prefered editor's/IDE's
 ### Coding Stats
 -->
 
+
 <div align="center">
   <img height="260" width="412" src="https://wakatime.com/share/@4a24bbdc-cb5d-4a58-9b14-b9809cc70d36/aaaed293-0415-480d-8702-a21e5cefd1fd.svg"/>
   &nbsp;&nbsp;
@@ -278,6 +279,7 @@ My prefered editor's/IDE's
 
 
 ---
+
 
 <div align="left">
   <img src="https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=LAST+UPDATED&color=0096FF&style=for-the-badge"/>
