@@ -26,7 +26,7 @@ at the
 
 - Teaching the following during the Summer 2025 semester at [UTM](https://www.utm.utoronto.ca):
    - STA256: Probability and Statistics I
-
+   - STA378: Statistics Research Project
 ---
 
 <!--
