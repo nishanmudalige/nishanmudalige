@@ -116,11 +116,11 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 ##
 
-</details>
-
 <div align="center">
 <a href="https://info.flagcounter.com/G1Wu"><img src="https://s01.flagcounter.com/countxl/G1Wu/bg_000000/txt_FFFFFF/border_000000/columns_8/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
+
+</details>
 
 ---
 
