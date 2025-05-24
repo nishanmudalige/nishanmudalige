@@ -20,11 +20,11 @@ at the
 </div>
 
 
-<!--
+
 ---
 
 ### Upcomming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" alt="Right Arrow" width="25" height="25" />
--->
+- Attending CanCOTS 2025 in June, 2025
 
 ---
 ### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" /> 
