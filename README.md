@@ -20,10 +20,9 @@ at the
 </div>
 
 
-
+<!--
 ---
 
-<!--
 ### Upcomming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" alt="Right Arrow" width="25" height="25" />
 - Attending the [CanCOTS 2025](https://cancots.netlify.app/en/) workshop in June, 2025 (Montréal, QC)
 -->
