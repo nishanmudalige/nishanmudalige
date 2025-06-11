@@ -23,13 +23,15 @@ at the
 
 ---
 
+<!--
 ### Upcomming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" alt="Right Arrow" width="25" height="25" />
 - Attending the [CanCOTS 2025](https://cancots.netlify.app/en/) workshop in June, 2025 (Montréal, QC)
+-->
 
 ---
 ### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" /> 
 
-
+- Attending the [CanCOTS 2025](https://cancots.netlify.app/en/) workshop in June, 2025 (Montréal, QC)
 - Teaching the following during the Summer 2025 semester at [UTM](https://www.utm.utoronto.ca):
    - STA256: Probability and Statistics I
    - STA378: Statistics Research Project (2 Students)
