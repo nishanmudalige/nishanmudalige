@@ -28,10 +28,8 @@ at the
 -->
 
 ---
-### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" /> 
+### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="
 
-- Attending the [CanCOTS 2025](https://cancots.netlify.app/en/) workshop in June, 2025 (Montréal, QC)
-   - Interactive R tutorials for learning and assessments working group
 - Teaching the following during the Summer 2025 semester at [UTM](https://www.utm.utoronto.ca):
    - STA256: Probability and Statistics I
    - STA378: Statistics Research Project (2 Students)
