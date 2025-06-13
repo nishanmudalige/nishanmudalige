@@ -28,7 +28,7 @@ at the
 -->
 
 ---
-### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="
+### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" /> 
 
 - Teaching the following during the Summer 2025 semester at [UTM](https://www.utm.utoronto.ca):
    - STA256: Probability and Statistics I
