@@ -32,6 +32,7 @@ at the
 
 - Teaching the following during the Summer 2025 semester at [UTM](https://www.utm.utoronto.ca):
    - STA378: Statistics Research Project (2 Students)
+- Preparing for teaching in the Fall 2025 semester
 ---
 
 <!--
