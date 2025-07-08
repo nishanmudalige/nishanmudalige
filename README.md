@@ -4,7 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Nishan&fontColor=000000&fontSize=70&textBg=false&descAlign=60&descAlignY=60&section=header"/>
 </div>
 
-### Welcome <img height="50" width="50" src = "https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/hello_no_bg_cropped.gif" />
+### Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+<!-- <img height="50" width="50" src = "https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/hello_no_bg_cropped.gif" /> -->
+
 <br>
 
 I am an [Assistant Professor (Teaching Stream) in Statistics](https://www.utm.utoronto.ca/math-cs-stats/people/nishan-mudalige)
