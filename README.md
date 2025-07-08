@@ -16,9 +16,8 @@ at the
 [University of Toronto at Mississauga](https://www.utm.utoronto.ca).
 
 <div align="center">
-  <img  width="52%" 
-        height="70%" 
-        src="https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/stats_distrib-no-bg-cropped-blue-green.gif"/>
+  <img width="500" height="500"
+	src="https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/Assets/stats_distrib-no-bg-cropped-blue-green.gif"/>
 </div>
 
 
