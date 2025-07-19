@@ -115,10 +115,10 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&show_icons=true&rank_icon=github&theme=algolia" 
-	  width="520" />
+	  width="500" />
   &nbsp;&nbsp;
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige" 
-	  width="360" /> 
+	  width="300" /> 
 </div>
 
 
@@ -126,9 +126,10 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 ##
 
 <div align="center">
-  <img height="600"
-    src="https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-green.svg" />
-  <!-- <img src=https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg /> -->
+  <!-- 
+  <img height="600" src="https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-green.svg" /> 
+   -->
+  <img height="600" src=https://raw.githubusercontent.com/nishanmudalige/nishanmudalige/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg />
 </div>
 
 
