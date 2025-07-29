@@ -309,7 +309,7 @@ My prefered editor's/IDE's
 
 
 <div align="left">
-  <img src="https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=LAST+UPDATED&color=0096FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=Last%20updated&color=blue"/>
 </div>
 
 <!--
