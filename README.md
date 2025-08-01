@@ -307,10 +307,11 @@ My prefered editor's/IDE's
 
 ---
 
+![Last_Updated](https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=Last%20updated&color=blue)
+[![GitHub-Profile-3D-Contrib](https://github.com/nishanmudalige/nishanmudalige/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/nishanmudalige/nishanmudalige/actions/workflows/profile-3d.yml)
 
-<div align="left">
-  <img src="https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=Last%20updated&color=blue"/>
-</div>
+<!-- ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nishanmudalige/nishanmudalige/profile-3d.yml) -->
+
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=If%20you%20like%20this%20ReadMe,%20please%20give%20it%20a%20Star%20⭐&fontSize=29&fontColor=2ad994&strokeWidth=0&stroke=00FF00&textBg=false">
