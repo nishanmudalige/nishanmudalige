@@ -33,7 +33,7 @@ at the
 
 - Teaching the following during the Summer 2025 semester:
    - [STA378: Statistics Research Project](https://utm.calendar.utoronto.ca/course/sta378h5) (2 Students)
-- Preparing for the Fall 2025 semester
+- Preparing for the Fall 2025 semester.
 ---
 
 <!--
