@@ -182,7 +182,7 @@ I often typeset content in
 #### IDE's <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" />
 
 My prefered editor's/IDE's
-- [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org) for Python
+- [Visual Studio Code](https://code.visualstudio.com) for Python
 - [Posit RStudio](https://posit.co/products/open-source/rstudio/) for R
 - [Visual Studio Code](https://code.visualstudio.com) for LaTeX with the following plugins
    - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
