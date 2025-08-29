@@ -13,7 +13,7 @@ I am an [Assistant Professor (Teaching Stream) in Statistics](https://www.utm.ut
 with the
 [Department of Mathematical and Computational Sciences](https://www.utm.utoronto.ca/math-cs-stats/)
 at the 
-[University of Toronto at Mississauga](https://www.utm.utoronto.ca).
+[University of Toronto Mississauga](https://www.utm.utoronto.ca).
 
 <div align="center">
   <img width="500" height="500"
