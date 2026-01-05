@@ -96,7 +96,7 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 <div align="center">
   <img height="190" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&theme=algolia"/>
   &nbsp;&nbsp;
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&theme=algolia"/>
+  <img height="190" src="https://github-readme-stats-fast.vercel.app/api?username=nishanmudalige&layout=compact&theme=algolia"/>
 </div>
 
 <br>
