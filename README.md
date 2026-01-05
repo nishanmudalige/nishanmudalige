@@ -94,26 +94,15 @@ href="https://u8views.com/github/nishanmudalige"><img src="https://u8views.com/a
 <br>
 
 <div align="center">
-  <img height="190" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&theme=algolia"/>
+  <img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nishanmudalige&layout=compact&theme=algolia"/>
   &nbsp;&nbsp;
   <img height="190" src="https://github-readme-stats-fast.vercel.app/api?username=nishanmudalige&layout=compact&theme=algolia"/>
 </div>
 
 <br>
 
-<!--
-<div align="center">  
-  <!-- <img height="203" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&show_icons=true&rank_icon=github&theme=algolia"/> - ->
-  <img height="203" src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&show_icons=true&theme=algolia"/>
-  &nbsp;&nbsp;
-  <img height="250" src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige"/>
-</div>
--->
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanmudalige&show_icons=true&rank_icon=github&theme=algolia" 
-	  width="500" />
+  <img height="190" src="https://github-readme-streak-stats-self-nine.vercel.app?user=nishanmudalige&theme=algolia"/>	
   &nbsp;&nbsp;
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanmudalige" 
 	  width="300" /> 
