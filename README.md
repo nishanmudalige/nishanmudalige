@@ -31,7 +31,12 @@ at the
 ---
 ### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" /> 
 
-- Preparing for the Winter 2026 semester.
+- Teaching the following during the Summer 2025 semester at [UTM](https://www.utm.utoronto.ca):
+  - [STA256](https://utm.calendar.utoronto.ca/course/sta256h5)
+  - [STA258](https://utm.calendar.utoronto.ca/course/sta258h5)
+  - [STA260](https://utm.calendar.utoronto.ca/course/sta260h5)
+
+
 ---
 
 <!--
