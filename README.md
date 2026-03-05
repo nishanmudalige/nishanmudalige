@@ -33,8 +33,8 @@ at the
 
 - Teaching the following during the Summer 2025 semester at [UTM](https://www.utm.utoronto.ca):
   - [STA256: Probability and Statistics I](https://utm.calendar.utoronto.ca/course/sta256h5)
-  - [STA258](https://utm.calendar.utoronto.ca/course/sta258h5)
-  - [STA260](https://utm.calendar.utoronto.ca/course/sta260h5)
+  - [STA258: Statistics with Applied Probability](https://utm.calendar.utoronto.ca/course/sta258h5)
+  - [STA260: Probability and Statistics I](https://utm.calendar.utoronto.ca/course/sta260h5)
 
 
 ---
