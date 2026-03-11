@@ -36,7 +36,7 @@ at the
   - [STA258: Statistics with Applied Probability](https://utm.calendar.utoronto.ca/course/sta258h5)
   - [STA260: Probability and Statistics II](https://utm.calendar.utoronto.ca/course/sta260h5)
   - [STA378: Statistics Research Project](https://utm.calendar.utoronto.ca/course/sta378h5)
-
+  - [STA478: Statistics Research Project](https://utm.calendar.utoronto.ca/course/sta478h5)
 ---
 
 <!--
