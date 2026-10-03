@@ -31,8 +31,9 @@ at the
 ---
 ### Currently <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" alt="Information" width="25" height="25" /> 
 
-- Teaching the following during the Summer 2026 semester at [UTM](https://www.utm.utoronto.ca):
+- Teaching the following during the Fall 2026 semester at [UTM](https://www.utm.utoronto.ca):
   - [STA256: Probability and Statistics I](https://utm.calendar.utoronto.ca/course/sta256h5)
+  - [STA313: Topics in Statistics](https://utm.calendar.utoronto.ca/course/sta313h5)
   - [STA378: Statistics Research Project](https://utm.calendar.utoronto.ca/course/sta378h5)
 ---
 
