@@ -297,7 +297,8 @@ My prefered editor's/IDE's
 
 ---
 
-![Last_Updated](https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige?logo=markdown&label=Last%20updated&color=blue)
+![Last updated](https://img.shields.io/github/last-commit/nishanmudalige/nishanmudalige/main?logo=markdown&label=Last%20updated&color=blue)
+
 [![GitHub-Profile-3D-Contrib](https://github.com/nishanmudalige/nishanmudalige/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/nishanmudalige/nishanmudalige/actions/workflows/profile-3d.yml)
 
 <!-- ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nishanmudalige/nishanmudalige/profile-3d.yml) -->
