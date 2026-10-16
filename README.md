@@ -266,9 +266,9 @@ My prefered editor's/IDE's
 ##
   
 <div align="center">
-  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stainless-nata&theme=gotham"/>
+  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishanmudalige&theme=gotham"/>
   &nbsp;&nbsp;
-  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stainless-nata&theme=gotham"/>
+  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishanmudalige&theme=gotham"/>
 </div>
 
 ##
